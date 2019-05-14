@@ -1,0 +1,57 @@
+{
+      "name": "Beyond-Biomagnetism",
+      "private": true,
+      "description": "The App provides a various Anatomical Bio magnetism Pairs which may be of therapeutic benefit. Biomagnetism therapy is a natural traditional healing process, which supports a normal response to a number of health concerns using pairs of magnets of medium intensity specifically placed.",
+      "version": "0.1.0",
+      "author": "Helensys Inc",
+      "dependencies": {
+            "@fortawesome/fontawesome-svg-core": "^1.2.17",
+            "@fortawesome/free-brands-svg-icons": "^5.8.1",
+            "@fortawesome/free-solid-svg-icons": "^5.8.1",
+            "@fortawesome/react-fontawesome": "^0.1.4",
+            "bootstrap": "^4.3.1",
+            "disqus-react": "^1.0.5",
+            "gatsby": "^2.3.27",
+            "gatsby-image": "^2.0.40",
+            "gatsby-plugin-less": "^2.0.12",
+            "gatsby-plugin-manifest": "^2.0.29",
+            "gatsby-plugin-offline": "^2.0.25",
+            "gatsby-plugin-react-helmet": "^3.0.12",
+            "gatsby-plugin-sharp": "^2.0.35",
+            "gatsby-source-filesystem": "^2.0.31",
+            "gatsby-transformer-json": "^2.1.11",
+            "gatsby-transformer-sharp": "^2.1.18",
+            "less": "^3.9.0",
+            "less-loader": "^4.1.0",
+            "lodash": "^4.17.11",
+            "prop-types": "^15.7.2",
+            "react": "^16.8.6",
+            "react-bootstrap": "^1.0.0-beta.8",
+            "react-dom": "^16.8.6",
+            "react-helmet": "^5.2.0",
+            "react-slick": "^0.24.0",
+            "slick-carousel": "^1.8.1"
+      },
+      "devDependencies": {
+            "prettier": "^1.17.0"
+      },
+      "keywords": [
+            "gatsby"
+      ],
+      "license": "MIT",
+      "scripts": {
+            "build": "gatsby build",
+            "develop": "gatsby develop",
+            "format": "prettier --write src/**/*.{js,jsx}",
+            "start": "npm run develop",
+            "serve": "gatsby serve",
+            "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+      },
+      "repository": {
+            "type": "git",
+            "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+      },
+      "bugs": {
+            "url": "https://github.com/gatsbyjs/gatsby/issues"
+      }
+}

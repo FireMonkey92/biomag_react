@@ -1,0 +1,37 @@
+{
+    "headerMenu": {
+        "logoImage": "../../assets/images/Biomag-Logo-Big.png",
+        "highlights": "Highlights",
+        "ContactUs": "Contact Us",
+        "home": "Home",
+        "Products": [
+            {
+                "ProductsList": "Beyond BioMag 3D",
+                "href": "app-biomag3d",
+                "class": "hrLine"
+            },
+            {
+                "ProductsList": "Beyond BioMag Practitioner",
+                "href": "app-practitioner",
+                "class": ""
+            }
+        ],
+        "homeMenu": [
+            {
+                "navItem": "Training",
+                "path": "/training",
+                "id": "01"
+            },
+            {
+                "navItem": "Therapists",
+                "path": "/therapist",
+                "id": "02"
+            },
+            {
+                "navItem": "Blog",
+                "path": "/blog",
+                "id": "03"
+            }
+        ]
+    }
+}

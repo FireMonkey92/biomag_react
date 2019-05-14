@@ -1,0 +1,813 @@
+{
+    "banners": {
+        "bannerBackgroundImage": "../../assets/images/Background-image.jpg",
+        "bannerButtonValue": "Watch Video",
+        "banner": [
+            {
+                "bannerTitle": "<h4 class='banner-3d'>BEYOND BIOMAG 3D</h4><p>The best way to detect and identify anatomical scan points</p>",
+                "bannerTitleAnimationClass": "description wow fadeInLeft",
+                "bannerHandImage": "../../assets/images/biomag-app-hand.png",
+                "bannerHandImageAnimationClass": "img-fluid wow fadeInRight banner-image",
+                "appStoreButton": "../../assets/images/app-store-button.png",
+                "appStoreButtonLink": "https://itunes.apple.com/in/app/beyond-biomag-3d/id1161699021?mt=8",
+                "target": "_blank",
+                "playStoreButton": "../../assets/images/android-app-store.png",
+                "playStoreButtonLink": "https://play.google.com/store/apps/details?id=com.helensys.biomag",
+                "appStoreButtonStyle": "",
+                "altTag": "biomag 3D App",
+                "Code": "BA001",
+                "id": "01"
+            },
+            {
+                "bannerTitle": "<h4 class='banner-3d'>Beyond BioMag Practitioner</h4><p>The best therapy tracking app every practitioner must have</p>",
+                "bannerTitleAnimationClass": "description wow fadeIn",
+                "bannerHandImage": "../../assets/images/biomag-app-hand-practitioner.png",
+                "bannerHandImageAnimationClass": "img-fluid banner-image",
+                "appStoreButton": "../../assets/images/app-store-comingsoon-button.png",
+                "appStoreButtonLink": "",
+                "target": "",
+                "playStoreButton": "",
+                "playStoreButtonLink" : "",
+                "appStoreButtonStyle": "vmo-cursor-default",
+                "altTag": "biomag Practitioner",
+                "Code": "BA002",
+                "id": "02"
+            }
+        ],
+        "bannerSlides": [
+            {
+                "slideNo": "0",
+                "Code": "BL001",
+                "id": "01"
+            },
+            {
+                "slideNo": "1",
+                "Code": "BL002",
+                "id": "02"
+            }
+        ]
+    },
+    "ourApps": {
+        "ourAppImage": "../../assets/images/biomag-apps.png",
+        "ourAppContent": "<p><ol style='text-align: left;'><li>View biomagnetism pairs, associated health concerns and microbiome.</li><li>Search for health concerns, microbiome associated with a specific anatomical biomagnetism pair.</li><li>Fast and filtered searches.</li></ol></p>",
+        "ourAppHeading": "Attractive Features from Beyond Biomagnetism Apps",
+        "Code": "OI001",
+        "id": "01",
+        "ourAppDevices": [
+            {
+                "ourAppDevicesImage": "../../assets/images/icon-tap.png",
+                "ourAppDevicesHeading": "Tap",
+                "ourAppDevicesDescription": " The user searches the Dictionary and then taps on the identified anatomical points.",
+                "id": "01"
+            },
+            {
+                "ourAppDevicesImage": "../../assets/images/icon-place.png",
+                "ourAppDevicesHeading": "Place",
+                "ourAppDevicesDescription": " Place the magnets on the tapped points for the requisite duration.",
+                "id": "02"
+            },
+            {
+                "ourAppDevicesImage": "../../assets/images/icon-heal.png",
+                "ourAppDevicesHeading": "Heal",
+                "ourAppDevicesDescription": "Give the body time to achieve homeostasis, supported by the placement of the magnets.",
+                "id": "03"
+            }
+        ]
+    },
+    "highlights": {
+        "background": "Background-image-1.jpg",
+        "highlightsTitle": "WHY CHOOSE US?",
+        "highlightsSubtitile": "A Quick glance at our apps!",
+        "highlightsImage": "../../assets/images/biomag-highlights.png",
+        "highlights": [
+            {
+                "highlightsNumber": "01",
+                "highlightsHeading": "3D Model Representation",
+                "highlightsDescription": "Reference guide for clients and practitioners to locate the Anatomical Biomagnetism pairs using 3D Male and Female models.",
+                "id": "01"
+            },
+            {
+                "highlightsNumber": "02",
+                "highlightsHeading": "Easy to Use",
+                "highlightsDescription": "Intuitive user interfaces along with an appropriate combination of efficiency and responsiveness that enables seamless access to all the functionalities easier than ever.",
+                "id": "02"
+            },
+            {
+                "highlightsNumber": "03",
+                "highlightsHeading": "Capture Biomagnetism Details",
+                "highlightsDescription": "Biomagnetism details can be captured along with images for easy reference and better therapeutic approach to wellness of the clients.",
+                "id": "03"
+            }
+        ]
+    },
+    "therapist": {
+        "therapistFilter": "filter by",
+        "therapistDetail": [
+            {
+                "name": "Colorado",
+                "Filter": "Colorado",
+                "Code": "BD019",
+                "id": "19"
+            },
+            {
+                "name": "Idaho",
+                "Filter": "Idaho",
+                "Code": "BD006",
+                "id": "06"
+            },
+            {
+                "name": "New York",
+                "Filter": "New York",
+                "Code": "BD011",
+                "id": "11"
+            },
+            {
+                "name": "New Jersey",
+                "Filter": "New Jersey",
+                "Code": "BD012",
+                "id": "12"
+            },
+            {
+                "name": "Australia",
+                "Filter": "Australia",
+                "Code": "BD014",
+                "id": "14"
+            },
+            {
+                "name": "Lebanon",
+                "Filter": "Lebanon",
+                "Code": "BD017",
+                "id": "16"
+            },
+            {
+                "name": "United Kingdom",
+                "Filter": "United-Kingdom",
+                "Code": "BD019",
+                "id": "18"
+            },
+            {
+                "name": "Delaware",
+                "Filter": "Delaware",
+                "Code": "BD020",
+                "id": "19"
+            },
+            {
+                "name": "New Hampshire",
+                "Filter": "New Hampshire",
+                "Code": "BD021",
+                "id": "20"
+            }
+        ],
+        "therapistDescription": [
+            {
+                "therapistImg": "../../assets/images/luis-f-garcia.png",
+                "therapistName": "Luis F. Garcia, MD",
+                "therapistYear": " Therapist since 2008 ",
+                "therapistCityDetails": [
+                    "New York, US",
+                    "New Jersey, US"
+                ],
+                "therapistPhonenumber": "<p class='therapistContact'><a href='tel:732-983-8616'>NJ: 732-983-8616</a></p><p class='therapistContact'><a href='tel:212-989-9828'>NY: 212-989-9828</a></p>",
+                "therapistGmail": " <p class='therapistContact'><a href='mailto:info@usbiomag.com'>info@usbiomag.com</a></p>",
+                "therapistWebsite": " <p class='therapistContact'><a href='http://usbiomag.com/' target='_blank'>www.usbiomag.com </a></p>",
+                "therapistTooltip": "<ul class='tooltip_list'><li class='tooltip_list_type' >Medical  doctor</li><li class='tooltip_list_type'>Biomagnetism Levels 1 & 2</li><li class='tooltip_list_type'>MicrobioEnergetics 1 & 2 </li><li class='tooltip_list_type'>Emotion Code</li></ul> ",
+                "Filter": [
+                    "New York",
+                    "New Jersey"
+                ],
+                "Code": "BS001",
+                "id": "01"
+            },
+            {
+                "therapistImg": "../../assets/images/suzy-dior.png",
+                "therapistName": "Suzy Dior",
+                "therapistCityDetails": [
+                    "Brighton, United kingdom",
+                    ""
+                ],
+                "therapistYear": "Therapist since 2009",
+                "therapistPhonenumber": "<p class='therapistContact'><a href='tel:+4407754343671'>775-434-3671</a></p>",
+                "therapistGmail": "<p class='therapistContact'><a href='mailto: suzydior@gmail.com '>suzydior@gmail.com </a></p>",
+                "therapistWebsite": "<p class='therapistContact'><a href='https://www.suzydior.com/' target='_blank'> www.suzydior.com </a></p> ",
+                "therapistTooltip": "<ul class='tooltip_list'><li class='tooltip_list_type' >Biomagnetism Levels 1 and 2</li></ul>",
+                "Filter": [
+                    "United-Kingdom"
+                ],
+                "Code": "BS007",
+                "id": "07"
+            },
+            {
+                "therapistImg": "../../assets/images/vikki-lee.png",
+                "therapistName": "Vikki-Lee O'Meara",
+                "therapistCityDetails": [
+                    "Victoria, Melbourne, Australia",
+                    ""
+                ],
+                "therapistYear": "Therapist since 2014",
+                "therapistPhonenumber": "<p class='therapistContact'><a href='tel:+610413288505'>413-288-505</a></p>",
+                "therapistGmail": "<p class='therapistContact'><a href='mailto:vikkilee8@bigpond.com'>vikkilee8@bigpond.com</a></p>",
+                "therapistWebsite": "<p class='therapistContact'><a href='http://salveocomplimentaryhealth.ntpages.com.au' target='_blank'>www.salveocomplimentaryhealth.ntpages.com.au</a></p> ",
+                "therapistTooltip": "<ul class='tooltip_list'><li class='tooltip_list_type'>Biomagnetism Levels 1</li><li class='tooltip_list_type'>Scenar Therapist Level 3+Electives</li><li class='tooltip_list_type'>NES Health Practitioner (Biophysics Screening)</li><li class='tooltip_list_type'>Animal Wellness Practitioner</li><li class='tooltip_list_type'>Senior Case Manager - Mental Health/Drug & Alcohol</li></ul>",
+                "Filter": [
+                    "Australia"
+                ],
+                "Code": "BS027",
+                "id": "27"
+            },
+            {
+                "therapistImg": "../../assets/images/cindy-schmillen.png",
+                "therapistName": "Cindy Schmillen N.D.,PhD.",
+                "therapistCityDetails": [
+                    "Idaho, Nampa, US",
+                    ""
+                ],
+                "therapistYear": "Therapist since 2015",
+                "therapistPhonenumber": "<p class='therapistContact'><a href='tel:208-353-5477'>208-353-5477</a></p>",
+                "therapistGmail": " <p class='therapistContact'><a href='mailto:wellnessklinik@gmail.com'> wellnessklinik@gmail.com</a></p>",
+                "therapistWebsite": "<p class='therapistContact'><a href='https://www.idahond.com/' target='_blank'> www.idahond.com </a></p> ",
+                "therapistTooltip": "<ul class='tooltip_list'><li class='tooltip_list_type' >Integrative Oncology</li></ul>",
+                "Filter": [
+                    "Idaho"
+                ],
+                "Code": "BS030",
+                "id": "30"
+            },
+            {
+                "therapistImg": "../../assets/images/sharon-lindsay.png",
+                "therapistName": "Sharon Lindsay",
+                "therapistCityDetails": [
+                    "Moranbah & Central Queensland, Australia",
+                    ""
+                ],
+                "therapistYear": "Therapist since 2016",
+                "therapistPhonenumber": "<p class='therapistContact'><a href='tel:+61-0427-616-430'>427-616-430</a></p> ",
+                "therapistGmail": " <p class='therapistContact'><a href='mailto:'></a></p>",
+                "therapistWebsite": " <p class='therapistContact'><a href='https://www.facebook.com/Holistic-Health-Healing-Australia-125255841418642/' target='_blank'>https://www.facebook.com/Holistic-Health-Healing-Australia/</a></p>",
+                "therapistTooltip": "<ul class='tooltip_list'><li class='tooltip_list_type' >Biomagnetism Level 1</li></ul>",
+                "Filter": [
+                    "Australia"
+                ],
+                "Code": "BS032",
+                "id": "32"
+            },
+            {
+                "therapistImg": "../../assets/images/amin-kareh.png",
+                "therapistName": "Amin Kareh",
+                "therapistCityDetails": [
+                    " Lebanon, Beirut"
+                ],
+                "therapistYear": "Therapist since 2017",
+                "therapistPhonenumber": "<p class='therapistContact'><a href='tel:96171012238 '>96171012238 </a></p>",
+                "therapistGmail": "<p class='therapistContact'><a href='mailto:amine.kareh@gmail.com'>amine.kareh@gmail.com </a></p>",
+                "therapistWebsite": " ",
+                "therapistTooltip": "<ul class='tooltip_list'><li class='tooltip_list_type'>Biomagnetism Level 1</li></ul>",
+                "Filter": [
+                    "Lebanon"
+                ],
+                "Code": "BS033",
+                "id": "33"
+            },
+            {
+                "therapistImg": "../../assets/images/alexandra-clark.png",
+                "therapistName": "Alexandra Clark",
+                "therapistCityDetails": [
+                    "Denver, Colorado, US",
+                    ""
+                ],
+                "therapistYear": "",
+                "therapistPhonenumber": "<p class='therapistContact'><a href='tel:7575615481'>757-561-5481</a></p>",
+                "therapistGmail": "<p class='therapistContact'><a href='mailto: alexaniko@hotmail.com'>alexaniko@hotmail.com</a></p>",
+                "therapistWebsite": "<p class='therapistContact'><a href='http://www.biomagnetictherapydenver.com/' target='_blank'>www.biomagnetictherapydenver.com</a></p> ",
+                "therapistTooltip": "<ul class='tooltip_list'><li class='tooltip_list_type'>Biomagnetism Level 1</li><li class='tooltip_list_type'>Bioenergetics Level 2</li></ul>",
+                "Filter": [
+                    "Colorado"
+                ],
+                "Code": "BS036",
+                "id": "36"
+            },
+            {
+                "therapistImg": "../../assets/images/April-Elias.jpeg",
+                "therapistName": "April Elias",
+                "therapistCityDetails": [
+                    "Middletown,DE"
+                ],
+                "therapistYear": "Therapist since 2018",
+                "therapistPhonenumber": "<p class='therapistContact'><a href='tel:3022753508'>302-275-3508</a></p>",
+                "therapistGmail": "<p class='therapistContact'><a href='mailto: april@aprilelias.com'>april@aprilelias.com</a></p>",
+                "therapistWebsite": "<p class='therapistContact'><a href='http://www.aprilelias.com/' target='_blank'>www.aprilelias.com</a></p> ",
+                "therapistTooltip": "<ul class='tooltip_list'><li class='tooltip_list_type'>Biomagnetism and Beyond Level 1</li><li class='tooltip_list_type'>Multipreneur</li></ul>",
+                "Filter": [
+                    "Delaware"
+                ],
+                "Code": "BS037",
+                "id": "37"
+            },
+            {
+                "therapistImg": "../../assets/images/Anne-Schultz-Pinciaro.jpg",
+                "therapistName": "Anne Pinciaro",
+                "therapistCityDetails": [
+                    "Portsmouth,NH"
+                ],
+                "therapistYear": "",
+                "therapistPhonenumber": "<p class='therapistContact'><a href='tel:6034758520'>603-475-8520</a></p>",
+                "therapistGmail": "<p class='therapistContact'><a href='mailto: apinciaro@comcast.net'>apinciaro@comcast.net</a></p>",
+                "therapistWebsite": "<p class='therapistContact'><a href='http://www.PurePH.net/' target='_blank'>www.PurePH.net</a></p> ",
+                "therapistTooltip": "<ul class='tooltip_list'><li class='tooltip_list_type'>Biomagnetism and Beyond Level 1</li></ul>",
+                "Filter": [
+                    "New Hampshire"
+                ],
+                "Code": "BS038",
+                "id": "38"
+            }
+        ]
+    },
+    "blog": {
+        "Filter": "filter by",
+        "blogDetail": [
+            {
+                "name": "Before and After Biomagnetism Therapy",
+                "Filter": "Before and After Biomagnetism Therapy",
+                "Code": "BD003",
+                "id": "03"
+            },
+            {
+                "name": "Biomagnetism and Magnetic Therapy",
+                "Filter": "Biomagnetism-and-Magnetic-Therapy",
+                "Code": "BD007",
+                "id": "07"
+            },
+            {
+                "name": "News and Events",
+                "Filter": "news-and-events",
+                "Code": "BD008",
+                "id": "08"
+            },
+            {
+                "name": "Diseases",
+                "Filter": "Disease",
+                "Code": "BD009",
+                "id": "09"
+            }
+        ],
+        "blogDescription": [
+            {
+                "blogImg": "../../assets/images/traumatic-brain-injury-and-biomagnetism-header.png",
+                "blogName": "Traumatic Brain Injury and Biomagnetism",
+                "blogReadmoreHref": "biomag-blog",
+                "Filter": [
+                    "Biomagnetism-and-Magnetic-Therapy"
+                ],
+                "blogAdmin": "Luis F. Garcia, MD",
+                "blogReadmore": "Read more",
+                "shortDescription": "<p class='blogContent'>Can Biomagnetism (BM) benefit people with current or past brain trauma?  YES!  What exactly is a Traumatic Brain Injury (TBI)?  According to the Mayo Clinic, a TBI can have wide-ranging physical and psychological effects ...<p>",
+                "fullDescription": " <br/><p class='multi-pathogen-image'><img src='../traumatic-brain-injury-and-biomagnetism-header1.jpg' alt='images' width='100%' height='auto'/><br></p><p> Can Biomagnetism (BM) benefit people with current or past brain trauma?  YES!  What exactly is a Traumatic Brain Injury (TBI)?  According to the Mayo Clinic,<b> a TBI can have wide-ranging physical and psychological effects</b>.<br> Some signs or symptoms may appear immediately after the traumatic event, while others may appear days or weeks later.</p><br><p class='multi-pathogen-image'><img src='../traumatic-brain-injury-and-biomagnetism-2.jpg'  width='100%' height='auto' alt='images'></p><br><p>The <b> injuries may be mild, moderate or severe </b> and can show physical symptoms <b> such as headaches, loss of consciousness, nausea or vomiting, drowsiness, dizziness, sensory symptoms such as sensitivity to light or sound, cognitive or mental symptoms such as memory, concentration or mood changes, anxiety, depression and other varied symptoms</b>. </p><p>On a chemical level a TBI is the interruption of a stable local pH environment being replaced by the release of cortisol (stress hormone) and adrenaline.</p><p> Once brain trauma occurs, there is a buildup of fluid, inflammatory markers are released, and pressure begins to build up in the head.</p>  <br><b> How Biomagnetism can Help?</b><br><br><p> Through the use of BM some of these reactions can be avoided and optimized to accelerate appropriate healing.</p><p class='multi-pathogen-image'><img src='../traumatic-brain-injury-and-biomagnetism-3.jpg'  width='100%' height='auto' alt='images'></p><br><p><b>What experience has Dr. Garcia had with TBI and Biomagnetism?</b></p><p>Not only have I had experience with hundreds of patients and clients over the years but when my own 7 year old daughter experienced a nasty fall and landed on the back of her head, <b>I thanked the heavens and stars for having guided me towards developing a protocol for TBI to benefit everyone! </b> </p><p>Little did I know that, years later, my protocol would help my own daughter in so many ways.  After having fallen on her head, she cried a little, rubbed her head and got up and continued to play with her cousins again. That evening, despite my intention of applying magnets on her to avoid possible acute issues, she was too busy and entertained by her cousins to let me interrupt her for an hour and place magnets.  The next day, she was apparently fine and we went out all day and I suspected that perhaps the fall had not been so bad.  </p><p>However, <b> the following morning (36 hours later) immediately after breakfast, she suffered from extreme nausea and vomiting, malaise and lethargy.</b>  Unfortunately we had to fly to another city early morning and so I had no time to apply Biomagnetism on her.  After arriving to our final destination, she was green / pale in color and I questioned if I should take her to the hospital for analysis including a CAT scan of her brain.  Fortunately, I figured at a minimum I should apply the therapy and place magnets on her to see if I could help her snap out of such debilitating symptoms. If she didn’t improve then I was going to take her to the hospital.  I did a 1 hour Biomagnetism session on her, she got up walked around and stated that although she felt much better, she still felt a little dizzy.</p><p>I had her lay down for another session and started all over again and completed a second session of Biomagnetism because I realized that she was making progress and that I should continue to see if I could help her recover even more. <b> After completing the second session, I asked her to stand up and walk around and as she did, she looked normal again and mentioned that she felt perfectly fine. She no longer felt dizzy, weak or nauseas anymore!  Just to make sure and test her out, I had her do several jumping jacks which she did with flying colors and 2 hrs prior couldn’t even stand up straight at all. She then proceeded to have a bowl of chicken and vegetable soup and felt even better afterwards</b>. </p><p><b>The next day, she felt completely normal and I did one more BM session and this time did not find any more left over pH imbalances in her head from the TBI like I had the night before</b>. This is just one of the hundreds of successful experiences that I have had with TBI’s over the last 11 years. </p><br><p><b font-size:120%;'>How to apply Biomagnetic Therapy after a TBI?</b></p><p class='multi-pathogen-image'><img src='../traumatic-brain-injury-and-biomagnetism-4.jpg' alt='images' width='100%' height='auto'></p><br><p>For biomagnetic balancing after a TBI, <b>place the Red side of a powerful neodymium magnet directly over the injured head area (secure with tape) and place another corresponding opposite magnet pair Black towards the Bladder in the center of the pelvic region to drain the inflammation from the head down to the bladder and out in the next urinary episode.</b>  <b>Additional pairs that may also help TBI’s require muscle testing and observing leg length discrepancies in the client.</b> Depending on how intense the trauma was, additional magnet pairs must be placed on the head either directly on or near the area of trauma.  The different specific magnet pairing combinations may help drain inflammation and edema through the urinary system and out of the body in the most natural way possible.  According to where you find yourself around the world (Latitude) leave these pairs on for the recommended number of minutes as found in the guidelines menu tab in our Beyond Biomag 3D app.  When magnets are properly applied in Biomagnetism, they may help restore homeostasis to the head and optimize TBI recovery through improved metabolism, reduction of inflammation and an increase in the appropriate circulation.  </p><p><b>The longer someone has been dealing with a TBI, the more inflammation and the more off balance the brain or system has become and the more areas will have been affected and the more BM sessions will be required.  </b></p><p>By using magnets, one is able to restore the stable pH environment to the brain and allow the body to attempt to recover normal structure and function similar to how the use of supplements restore normal structure and function.  </p><b style='font-size: 105%;'>Many of the pairs used for balancing pH in the head regions can be found in our Beyond Biomag 3D app.  </b>",
+                "blogDate": "March 13, 2019",
+                "blogAuthorImg": "../../assets/images/luis-f-garcia.png",
+                "blogTags": [
+                    "Biomagnetism and Magnetic Therapy"
+                ],
+                "path": "traumatic-brain-injury-and-biomagnetism",
+                "class": "",
+                "Code": "BD006",
+                "id": "07"
+            },
+            {
+                "blogImg": "../../assets/images/biomagnetism-children-header.png",
+                "blogName": "Biomagnetism and Children",
+                "blogReadmoreHref": "biomag-blog",
+                "Filter": [
+                    "Biomagnetism-and-Magnetic-Therapy"
+                ],
+                "blogAdmin": "Beyond Biomag Team",
+                "blogReadmore": "Read more",
+                "shortDescription": "<p class='blogContent'><strong> Does Biomagnetism benefit children?</strong><br>Absolutely, YES!  One of the most impressive results observed in children is GROWTH.  The magnetic energy most likely restores the pH balance to the anterior pituitary gland ...<p>",
+                "fullDescription": "<br><p class='multi-pathogen-image'><img src='../biomagnetism-children-header.png' class='blog-detailsImg-diabetes' style='width: 100%;'></p><br><br><p><strong> Does Biomagnetism benefit children?</strong><br><br> <span><strong>Absolutely, YES!  </strong></span>One of the most impressive results observed in children is <span><strong>GROWTH. </strong></span>  The magnetic energy most likely restores the pH balance to the anterior pituitary gland, and human growth hormone levels are restored to optimal.  From hearing <span><strong>Dr. Goiz </strong></span>  express this theory for the first time over 10 years ago to witnessing these effects in children with growth issues, the results have been amazing!  The current interpretation of what happens is that by using the magnets, the pH of the pituitary gland is restored back to normal homeostasis and the body can then continue to work optimally.  The same way that vitamins and minerals can help sustain normal metabolism and support a healthy immune system, the magnets provide a more stable pH environment for the glands and organs of our bodies to also sustain normal metabolism.  <br><br> For pH balancing the pituitary gland, place the Black side of a powerful Neodymium magnet directly over and facing the pituitary gland which lies in the middle of the forehead (On the “3rd eye”) and place another corresponding opposite magnet pair Red towards the Brainstem in the back of the head (approximately 1 inch above the hairline).  According to where you find yourself around the world (Latitude) leave this pair on for the recommended number of minutes as found in the guidelines menu tab in our Beyond Biomag 3D app.<br><br><p class='text-md-center text-xs-center'> <img src='../biomagnetism-children-ph-balance.png' class='text-md-center text-xs-center' style='text-align: center; margin: auto;width: 100%'></p><br><br><p> In children, various environmental stressors such as their emotions, nutrition, infections and others can cause for the pituitary gland to function less optimally and therefore produce less growth hormone.  <span><strong>When magnets are properly used in Biomagnetism, they may help restore homeostasis to the body and optimize children’s metabolism back to normal levels.  </strong></span><br><br> This may all happen synergistically when a healthy and balanced alkaline nutrition is maintained and other changes are achieved to bring their bodies into an optimal metabolic state.  If a parent wants a child to grow more, they must help them meet minimum nutritional levels of necessary vitamins, minerals, and amino acids to fulfill those metabolic demands.  A diet that consists of mainly junk, fast or processed foods will <span><strong>cause inflammation to the gastrointestinal tract </span></strong>and limit appropriate absorption. This will of course also lack many key nutrients, thereby limiting normal growth, immune system and metabolism among other body systems.  Few foods can beat the nutritional value of organic fruits, vegetables and a healthy organic vegetarian based diet to provide the correct balance of the essential nutrients.  Non-organic foods tend to be loaded with chemicals from the insecticides, pesticides and fertilizers that are not meant for our bodies, but rather meant for preventing and treating insects and mold and other conditions.  I am not saying that we must all become vegans, <span><strong>but how healthy is a cheeseburger or a beef hotdog versus a mixed salad with either beans or grilled organic chicken or vegetables? </strong></span></p></p><br><br><p class='text-md-center text-xs-center'> <img src='../biomagnetism-children-vegetables-balance.png' class='text-md-center text-xs-center' style='text-align: center; margin: auto; width: 100%'></p><br><br> Amongst the many other possible benefits of Biomagnetism for children may be an increased appetite, improved sleep, improved behavior such as better attention and reduction of tics, improved or prevention of sore throats, sinus issues, respiratory infections, chronic ear infections, urinary tract infections, skin rashes, acne, diarrhea, other gastrointestinal issues and many other improvements!  In my experience, children tend to improve faster than adults because they have not been dealing with certain health complaints for as long as adults have. The longer someone is dealing with an issue, the more inflammation and the more off balance the organ or system becomes.  Therefore, more Biomagnetism sessions are needed in adults to restore health, while in children fewer sessions would be required.  By applying Biomagnetism appropriately, the pH balance of the body may be restored to allow the body to recover normal structure and function in addition to proper nutrition.  Many of the Biomagnetism pairs used for pediatric complaints can be found in our Beyond Biomag 3D app. ",
+                "blogDate": "Sep 12, 2018",
+                "blogAuthorImg": "../../assets/images/Beyond-Biomag-Logo.png",
+                "blogTags": [
+                    "Biomagnetism and Magnetic Therapy"
+                ],
+                "path": "biomagnetism-and-children",
+                "class": "",
+                "Code": "BD006",
+                "id": "06"
+            },
+            {
+                "blogImg": "../../assets/images/biomagnetism-and-dairy-products-1.png",
+                "blogName": "Biomagnetism and Dairy products",
+                "blogReadmoreHref": "biomag-blog",
+                "Filter": [
+                    "Biomagnetism-and-Magnetic-Therapy"
+                ],
+                "blogAdmin": "Luis F. Garcia, MD",
+                "blogReadmore": "Read more",
+                "shortDescription": "<p class='blogContent'>Ever wonder how dairy products affect our bodies? It turns out that through Bioenergy and Biomagnetism, we have gained a pretty good idea of where and how dairy products are causing pH imbalance issues ...</p>",
+                "fullDescription": "<p>Ever wonder how dairy products affect our bodies?  It turns out that through Bioenergy and Biomagnetism, we have gained a pretty good idea of where and how dairy products are causing pH imbalance issues and negatively affecting our health. Let’s begin answering one of the most basic questions: <b>What is the original purpose of cow milk? </b>Answer: It is to feed a baby calf of 65 pounds and turn it into a 400 plus pound animal in just a few months.  </p><br><p class='multi-pathogen-image'><img src='../biomagnetism-and-dairy-products-1.png' class='blog-detailsImg-diabetes' style='width: 100%'></p><br><p>Human breast milk is for humans and cow’s milk is for baby calves.   Cow milk has a different and specific content of animal protein and fat.  We know that all mammals produce milk to feed their offspring. It is rich, nutritious and really healthy for their species development and growth.  This form of nutrition has evolved in mammals for over 200 million years. These hormonal protein and fat rich fluids are also equally beneficial for hundreds of species of <b>bacteria, virus and fungus</b> that also <b>THRIVE</b> on milk and its <b>post-pasteurization byproducts.</b>  It doesn’t matter if the final product is made with or contains: raw milk, whole milk, skim milk, lactose free milk, organic milk, cream, half n half, yogurt, kefir, goat milk, cow milk, camel milk, cheese or other dairy products, because these different dairy products can also feed hundreds of these opportunistic species. These species are harmful to humans.</p><br><p class='multi-pathogen-image'><img src='../biomagnetism-and-dairy-products-2.png' width='100%' class='blog-detailsImg-diabetes' style=''></p><br><p>It turns out that each one of these pathogens has a specific hiding place in our bodies where they take up residence and can cause inflammation.  It is a well-known fact that dairy products become contaminated with a very long list of different infections including:</p><br><p class='multi-pathogen-image'><img src='../biomagnetism-and-dairy- products-3.png' class='blog-detailsImg-diabetes' style='width: 100%'></p><p><b>ACCORDING TO THE CDC, FOODBORNE ILLNESSES CAUSE UP TO 48 MILLION INFECTIONS PER YEAR IN THE UNITED STATES ALONE.</b></p><p>Let’s take for example Bovine Leukemia virus, which has been found frequently in dairy cows and in their milk.  In a 2007 study of dairy operations in the United States, over 80% of the cows tested positive for Bovine Leukemia Virus (BLV).  This virus has been identified as the causative agent of Bovine leukemia which is the most common fatal cancer of dairy cattle causing them bovine mammary cancer. Researchers then carried studies to identify if dairy infected with BLV could infect humans.  <b>Recent studies have shown that humans do in fact show antibodies to the BLV.</b>  Results evidenced that <b>74% </b>of the participants in the study had antibodies to BLV, due to prior exposure to this dairy virus.  Why then, has there not been an explosion of bovine mammary cancer due to the high infection rate with BLV?  The answer is simple: as cows are generally slaughtered and sold as hamburger meat before the age of 7 when their potential life span is about 30 years, hence it may be too short a time for bovine mammary cancer to ever manifest.  In 2014, it was discovered that BLV was found in <b>44% </b>of samples of human breast tissue proving that humans can be infected with it and that it can in fact be found in human breast tissue.</p><br><p class='multi-pathogen-image'><img src='../biomagnetism-and-dairy-products-4.png' class='blog-detailsImg-diabetes' style='width: 100%'></p><br><p>Therefore, a new study was undertaken to determine if BLV was found in patients with breast cancer.  In  2015, a different study demonstrated the presence of BLV in <b>37%</b> of human breast cancer cases.  Yes, that’s right, the number one cause of cow mammary gland cancer, BLV has also been found in <b><u>37% of human breast cancer cases!</u></b>  Why only in 1/3 of all breast cancers?  Perhaps BLV is like Human Papilloma Virus (HPV) which has been proven to cause Cervical cancer, yet everyone that tests positive to HPV will not necessarily develop cervical cancer. More studies are necessary to understand and clarify this further, but so far, there is a very strong correlation with BLV and human breast cancer.  In a recent 2017 Australian study, it was concluded, &quot Bovine leukemia virus is significantly associated with breast cancer in a population of Australian women and was present in some breast tissues 3–10 years before the cancer was diagnosed. &quot This is just one example of a single infection related to dairy products.</p><br><p class='multi-pathogen-image'><img src='../biomagnetism-and-dairy-products-5.png' class='blog-detailsImg-diabetes' style='width: 100%'></p><br><p><b>ACCORDING TO THE <span style='font-size: 20px;'>WORLD CANCER FUND</span> AND A RECENT 2017 SYSTEMATIC REVIEW AND META-ANALYSIS OF THE RELATIONSHIP BETWEEN MILK AND PROSTATE CANCER, CLINICAL STUDIES DO INDEED INDICATE AN ASSOCIATION BETWEEN DAIRY CONSUMPTION AND THE RISK OF PROSTATE CANCER</b></p><p>For those of you that have been drinking/eating dairy and are now thinking, what infections/ inflammations do I have?  The answer is that if you go dairy free for several months or even years, this will help to simply starve out these infections and finally allow the gut and other affected areas to heal optimally.  It is BEST to not get infected in the first place and AVOID or significantly limit its consumption (because of its inherent vulnerability) or simply consume dairy alternatives such as almond, cashew, coconut milk and others. It is better to be safe than sorry.  We should base our diets on a variety of fresh, whole foods, preferably 80% alkaline and 20% acidic.<br><br>Biomagnetism can identify many of these dairy pathogens and the different organs and areas that they are affecting and aid the body in reestablishing optimal pH balance and health. Many of the Biomagnetism pairs to some of these pathogens can be found in the Beyond Biomag 3D App.</p><br><p><b>References:</b></p><p><a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3882853/' target='_blank'>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3882853/</a></p><p><a href='https://www.cdc.gov/foodsafety/foodborne-germs.html' target='_blank'>https://www.cdc.gov/foodsafety/foodborne-germs.html</a></p><p><a href='https://www.wcrf.org/int/blog/articles/2017/05/milk-and-prostate-cancer-how-are-they-linked' target='_blank'>https://www.wcrf.org/int/blog/articles/2017/05/milk-and-prostate-cancer-how-are-they-linked</a></p><p><a href='http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134304' target='_blank'>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0134304</a></p><p><a href='http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179367' target='_blank'>http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0179367</a></p><p><a href='https://www.wcrf.org/int/blog/articles/2017/05/milk-and-prostate-cancer-how-are-they-linked' target='_blank'>https://www.wcrf.org/int/blog/articles/2017/05/milk-and-prostate-cancer-how-are-they-linked</a></p><p><a href='https://www.ncbi.nlm.nih.gov/pubmed/28187509' target='_blank'>https://www.ncbi.nlm.nih.gov/pubmed/28187509</a></p><p><a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400803/' target='_blank'>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400803/</a></p><p><a href='https://sites.psu.edu/breastcancerawarenesshub/2016/09/14/188/comment-page-1/' target='_blank'>https://sites.psu.edu/breastcancerawarenesshub/2016/09/14/188/comment-page-1/</a></p><p><a href='https://images.google.com/' target='_blank'>https://images.google.com/</a></p>",
+                "blogDate": "Mar 05, 2018",
+                "blogTags": [
+                    "Biomagnetism and Magnetic Therapy"
+                ],
+                "blogAuthorImg": "../../assets/images/luis-f-garcia.png",
+                "path": "biomagnetism-and-dairy-products",
+                "class": "pathogenBlogImg",
+                "Code": "BD001",
+                "id": "01"
+            },
+            {
+                "blogImg": "../../assets/images/importance-of-biomagnetism-training.png",
+                "blogName": "Importance of Biomagnetism Training",
+                "blogReadmoreHref": "biomag-blog",
+                "Filter": [
+                    "Biomagnetism-and-Magnetic-Therapy",
+                    "news-and-events"
+                ],
+                "blogAdmin": "Luis F. Garcia, MD",
+                "blogReadmore": "Read more",
+                "shortDescription": "<p class='blogContent'>Is Biomagnetism training right for me? YES, anyone willing to learn and practice this relatively new modality can attend the training. Must I be in the health field to perform Biomagnetism Therapy on others? No...</p>",
+                "fullDescription": "<p><p class='multi-pathogen-image'><img src='../importance-of-biomagnetism-training.png' class='blog-detailsImg-diabetes' style='width: 100%'></p><strong>Is Biomagnetism training right for me? </strong><br><span><strong>YES, &nbsp;</strong>anyone willing to learn and practice this relatively new modality can attend the training.</span><br><br><strong>Must I be in the health field to perform Biomagnetism Therapy on others?</strong><br><br>No. Anyone from all walks of life from stay at home moms to film directors to 5-star Generals can and have learned this modality and learned it exceedingly well.  Those health professionals (Chiropractors, osteopaths, physical therapists, veterinarians, medical doctors, etc...) that already have a solid background in anatomy, physiology, biology and other areas of health, perhaps may learn some basics a little faster. However, it is such a new and revolutionary concept and modality that most health professionals will have to re-study these topics to be able to dominate them with this therapy.<br><br>Anyone who wants to enjoy optimum health and apply this therapy to his/her family as well as to help others heal themselves is the perfect candidate to learn Biomagnetism. As in any other profession, becoming a master takes time, practice, patience, study and requires good intentions.  In the same way that anyone can learn and practice playing the piano, anyone can learn Biomagnetism therapy.<br><br>The most important question to ask yourself is, <span><strong>'How good do you want to become?'</strong></span> Just like anyone can learn to play the Happy Birthday or Yankee Doodle song on the piano, anyone can learn to place magnets on the body.  However, do you want to just stop there, or do you want to learn to play more difficult songs on the piano or even learn to write piano music?  The same applies with Biomagnetism Therapy. Do you want to learn to address difficult client cases or even learn how to discover new personalized pairs?  If you have enough of a passion, open mind, and desire to learn and help others, then you can become a very skilled Biomagnetism practitioner. Students of Biomagnetism are encouraged to continue their studies of the many different subjects encountered at their own rate. To become more proficient and skilled, it is recommended that you continue your training by attending additional seminars over time.  This will keep your knowledge base updated with the most current information as well as reviewing your basic training principles and techniques and providing you with an on-going network and support of fellow practitioners.<br><br>Biomagnetism is compatible with all other therapies and treatments such as conventional, medical and pharmacological treatments as well as natural therapies such as acupuncture, chiropractic, homeopathy, naturopathy, and others.  Adding it to your repertoire of modalities offered can be very beneficial for all involved.  Hundreds of allopathic doctors around the world are already using this powerful technique in their medical offices and clinics to complement and enhance their medical treatments.  Magnets for applying Biomagnetism can be purchased at <span><a href='http://usbiomag.com/products/' target='_blank'> www.usbiomag.com/products </a></span>.  If you are considering becoming trained in Biomagnetism, join us at our next Biomagnetism Training Session in May 2019.  For more information, visit our <span><a href='https://www.beyondbiomag.io/biomagnetism-training' target='_blank'>training information site. </a></span></p><p class='multi-pathogen-image'><img src='../importance-of-biomagnetism-training-blog1.png' class='blog-detailsImg-diabetes' style='width: 100%'></p>",
+                "blogDate": "April 3, 2019",
+                "blogTags": [
+                    "Biomagnetism and Magnetic Therapy",
+                    "News and Events"
+                ],
+                "blogAuthorImg": "../../assets/images/luis-f-garcia.png",
+                "path": "importance-of-biomagnetism-training",
+                "class": "pathogenBlogImg",
+                "Code": "BD001",
+                "id": "01"
+            },
+            {
+                "blogImg": "../../assets/images/beyond-biomag-3d-app-what-is-it.png",
+                "blogName": "Beyond Biomag 3D App? What is it?",
+                "blogReadmoreHref": "biomag-blog",
+                "Filter": [
+                    "Biomagnetism-and-Magnetic-Therapy"
+                ],
+                "blogAdmin": "Luis F. Garcia, MD",
+                "blogReadmore": "Read more",
+                "shortDescription": "<p class='blogContent'>This app is a combination of critical information that I have personally attained in my own clinical practice as a Biomagnetism clinician as well as in my assistance throughout the years to over 20 Biomagnetism...</p>",
+                "fullDescription": "<p>This app is a combination of critical information that I have personally attained in my own clinical practice as a Biomagnetism clinician as well as in my assistance throughout the years to over 20 Biomagnetism courses including a majority being taught by Dr. Goiz himself.  The App allows users to search for various biomagnetism pairs, health concerns, and microbiome and enable them to self-heal several health issues using pairs of magnets of medium intensity.</p><br><p class='multi-pathogen-image'><img src='../beyond-biomag-3d-app-what-is-it.png' class='blog-detailsImg-diabetes' style='width: 100%'></p><br><p>I sincerely admire, respect, and thank Dr. Isaac Goiz Duran for his 'Nobel prize worthy' genus work and effort.<br><br>Being a Medical Doctor and experiencing firsthand, the miraculous changes and benefits of this therapy with thousands of my patients, I wanted to responsibly bring as much of this (Beyond Biomag 3D App) to the world so that millions of lives may continue to benefit. What better way than to put as much information as possible into the hands and phones of people around the world.  As a Medical Doctor, I feel it was my moral and ethical responsibility to help bring as much information to light as possible to my medical colleagues and those in need.  This app is for the benefit of all mankind.  It is and will continue to be a combination of knowledge from many other Biomagnetism mentors from around the world including pairs discovered and described by Dr. Miguel Ojeda, Dr. Salvador Gutierrez Rodriguez de Mondelo, Dr. Enrique de Juan Gonzalez de Castejon, Dr. Mario Ricardo Rodriguez, Jorge Mena PhD, Antonio Salas PhD, Gustavo Guayasamin, Jorge Tapia, Carlos Zamora, Alejandro Lavin and myself, Dr. Luis Fernando Garcia. <br><br>I plan to continue to update it with the most relevant pairs and descriptions so that conditions such as <span><a href='https://www.beyondbiomag.io/blog/biomagnetism-and-lyme-disease-multi-pathogen-syndrome' target='_blank'>Lyme,&nbsp;</a></span><span><a href='https://www.beyondbiomag.io/blog/diabetes-and-biomagnetism' target='_blank'>Diabetes,&nbsp;</a></span><span><a href='https://www.beyondbiomag.io/blog/malaria-and-biomagnetism' target='_blank'>Malaria,&nbsp;</a></span>Tuberculosis, Epstein Barr Virus, Chronic fatigue,  and others around the world can be addressed by taking out our smartphone and looking up some keywords.  Does this not sound like a great advancement in health for the world?  Let us all unite and continue to make this a global phenomenon one relevant Biomagnetic pair at a time.  I welcome your feedback and want for us to come together as a responsible global social community.<br>I would like to conclude with a quote that a medical colleague used as well about this therapy being made public.<br>'Science and art belong to the whole world, and the barriers of nationality vanish before them' - <span><strong>Johann Wolfgang von Goethe &nbsp;</strong></span>(1749-1832)</p>",
+                "blogDate": "Nov 06, 2017",
+                "blogTags": [
+                    "Biomagnetism and Magnetic Therapy"
+                ],
+                "blogAuthorImg": "../../assets/images/luis-f-garcia.png",
+                "path": "beyond-biomag-3d-app-what-is-it",
+                "class": "pathogenBlogImg",
+                "Code": "BD001",
+                "id": "01"
+            },
+            {
+                "blogImg": "../../assets/images/insects-can-transmit-dozens-of-diseases-to-humans.png",
+                "blogName": "Insects can transmit dozens of diseases to humans",
+                "blogReadmoreHref": "biomag-blog",
+                "Filter": [
+                    "Disease"
+                ],
+                "blogAdmin": "Luis F. Garcia, MD",
+                "blogReadmore": "Read more",
+                "shortDescription": "<p class='blogContent'>Ever wonder what happens when you are bitten by a fly, a mosquito, tick, or other invertebrate?  Chances are that you just simply brush it off, itch a bit after and then a day or two later it evolves into a rash...</p>",
+                "fullDescription": "<p>Ever wonder what happens when you are bitten by a fly, a mosquito, tick, or other invertebrate?  Chances are that you just simply brush it off, itch a bit after and then a day or two later it evolves into a rash...  Well, now science knows and has proven that many of these insects and their bites can transmit dozens of terrible diseases to humans.</p><br><p class='multi-pathogen-image'><img src='../insects-can-transmit-dozens-of-diseases-to-humans.png' class='blog-detailsImg-diabetes' style='width: 100%'></p><br><p>Not only are insect bites dangerous, but also a simple housefly landing on your food in the yard or in the home can be just as bad for your health!  Turns out that because they generally visit dumps, sewers, garbage heaps and feast on nasty things like fecal matter and decaying meat, fish, etc., which can be teeming with harmful, infectious bacteria, they too can pose a tremendous health risk!  Flies can transfer bacteria from its body to your food.  These bacteria and diseases include typhoid fever, cholera, tuberculosis, polio, tularemia, anthrax, leprosy and many others! </p><p>Insects can transmit over 65 diseases to humans. Insects are able to transmit viruses such as (Zika, Yellow fever, dengue fever, etc.), bacteria (Lyme disease, Bartonella, Yersinia (plague), etc.) and parasites (Malaria, sleeping sickness, leishmaniasis, filariasis, etc.).</p><br><p class='multi-pathogen-image'><img src='../insects-can-transmit-dozens-of-diseases-to-humans-blog-1.png' class='blog-detailsImg-diabetes' style='width: 100%'></p><br><p>Fortunately, for the majority of us who eat and maintain a healthy lifestyle, have a strong immune system that can take care of the majority of these issues.  However, if we are emotionally stressed out, overworked or not getting enough restful sleep, then we will find ourselves with a weakened immune system that can open the door to many of these infections.  Therefore, I cannot stress enough the importance of trying to maintain a balanced life with time for work, play, family, sports, friends, spirituality, etc.  The more in balance we are among these and other areas of our life, the more we will be able to maintain a stronger healthier immune system that will protect us from the constant barrage of infections and contamination that we are exposed to on a daily or weekly basis.</p><p>For those of you that have been struggling with your health or simply want to practice preventative healthy living, you can apply Biomagnetism on yourself and loved ones.  Many of the Biomagnetism pairs relating to these conditions and microbiomes can be found in the <span><strong>Beyond Biomag 3D app.</strong></span></p>",
+                "blogDate": "Oct 30, 2017",
+                "blogTags": [
+                    "Diseases"
+                ],
+                "blogAuthorImg": "../../assets/images/luis-f-garcia.png",
+                "path": "insects-can-transmit-dozens-of-diseases-to-humans",
+                "class": "pathogenBlogImg",
+                "Code": "BD001",
+                "id": "01"
+            },
+            {
+                "blogImg": "../../assets/images/interview-with-luis-f-garcia-md.png",
+                "blogName": "Listen to Dr. Garcia’s interview with Dr. Rima Truth Reports",
+                "blogReadmoreHref": "biomag-blog",
+                "Filter": [
+                    "news-and-events"
+                ],
+                "blogAdmin": "Beyond Biomag Team",
+                "blogReadmore": "Read more",
+                "shortDescription": "<p class='blogContent'>Dr. Luis F. Garcia was interviewed by Dr. Rima E. Laibow, the Medical Director of the Natural Solutions Foundation accompanied with Ralph Fucetola JD, the co-trustee of Natural Solutions Foundation. In this int...</p>",
+                "fullDescription": "<p>Dr. Luis F. Garcia was interviewed by Dr. Rima E. Laibow, the Medical Director of the Natural Solutions Foundation accompanied with Ralph Fucetola JD, the co-trustee of Natural Solutions Foundation. In this interview, Dr. Garcia talks about how Dr. Goiz discovered Biomagnetism Therapy and how it works in healing various health conditions. He also explained how the <span><strong>Beyond Biomag 3D App</strong></span> assist users in finding the desired scan points and their respective corresponding pairs for any identified health issue.</p><p>Listen to Dr. Garcia’s interview to explore how Biomagnetism Therapy can do miracles for your health conditions.</p><br><br><a class='spreaker-player' href='https://www.spreaker.com/user/livetruthradio/dr-garcia' data-resource='episode_id=12692461' data-theme='dark' data-autoplay='false' data-playlist='false' data-cover='https://d3wo5wojvuv7l.cloudfront.net/images.spreaker.com/original/b8c67b1fe4f7557dea8d7a8080de0fd2.jpg' data-width='100%' data-height='150px'>Listen to 'Dr. Garcia' on Spreaker.</a><script async src='https://widget.spreaker.com/widgets.js'></script>",
+                "blogDate": "Oct 09, 2017",
+                "blogTags": [
+                    "News and Events"
+                ],
+                "blogAuthorImg": "../../assets/images/Beyond-Biomag-Logo.png",
+                "path": "listen-to-dr.garcias-interview-with-dr.rima-truth-reports",
+                "class": "pathogenBlogImg",
+                "Code": "BD001",
+                "id": "01"
+            },
+            {
+                "blogImg": "../../assets/images/biomagnetism-and-magnetic-therapy-are-they-different-therapies.png",
+                "blogName": "Biomagnetism and Magnetic Therapy: Are they different therapies?",
+                "blogReadmoreHref": "biomag-blog",
+                "Filter": [
+                    "Biomagnetism-and-Magnetic-Therapy"
+                ],
+                "blogAdmin": "Luis F. Garcia, MD",
+                "blogReadmore": "Read more",
+                "shortDescription": "<p class='blogContent'>Yes, The two modalities are completely different. Even though both the therapies involved in the placing of magnets on the body, Biomagnetism uses two magnets of opposite charges placed in very specific pair co...</p>",
+                "fullDescription": "<p>Yes, the two modalities are completely different. Even though both the therapies involved in the placing of magnets on the body, Biomagnetism uses two magnets of opposite charges placed in very specific pair combinations on the body whereas Magnetic Therapy is applied by practitioners with usually only one magnet placing in one direction or polarity based upon two guiding concepts: 1) South Pole side acts as analgesic and 2) North Pole side acts as anti-inflammatory. The magnetic fields used for this purpose are mostly of low intensity (between 100 to 500 gauss) and are applied for longer periods of time, hours or days, in areas that show specific symptoms such as pain, inflammation or other.</p>In every magnet, there is a North Pole (South-seeking) and a South Pole (North-seeking) side. The South Pole provides a right-handed (Clockwise) spin to electron flow and has been attributed to an increase in blood flow, fluid retention, and increased pH acidity. The North Pole provides a left-handed (Counter-clockwise) spin to electron flow which can result in sedative effects, reduction of pain and inflammation and has an alkalinizing effect.<br><br><p class='multi-pathogen-image'><img src='../biomagnetism-and-magnetic-therapy-are-they-different-therapies.png' class='text-md-center text-xs-center blog-detailsImg' style='text-align: center;margin: auto; width: 100%;'></p><br><p>By using two magnets in Biomagnetism or Biomagnetic Pair Therapy discovered by Dr. Isaac Goiz Duran, the magnets create a very specific movement of hydrogen protons throughout the body which will either attract protons to a given area or repel and push away protons from an area.  This physical property is what allows for such radical pH changes to occur in the body.  Biomagnetism has become a revolutionary, scientific and therapeutic approach to wellness that differs from traditional medicine, homeopathy, herbs and natural therapies.  It is perfectly compatible with any other traditional or alternative modality.  It is an internationally practiced health approach that strives to attain bio-magnetic energetic balance in the human body; the state of natural health known as <span><strong>“homeostasis”.</strong></span> It involves the precise and proper (North/South polarity) placement of special high field strength magnets over very specific areas of the body, to support the regulation of pH in these very areas.  By maintaining adequate pH, homeostasis may be reestablished so that the body may heal itself.  Homeostasis restores normal structure and functions to our immune system, increases circulation and oxygenation, normalizes the body's response to inflammation and many more positive effects on our bodies.  It is believed that pH imbalances throughout our bodies may ultimately accumulate and alter our stable microbiome allowing for the development of health conditions.</p><p>Medical doctor Isaac Goiz Duran discovered this therapy in Mexico City, Mexico in 1988.  Dr. Goiz states that Biomagnetism studies, detects, classifies, measures and allows for the correction of pH imbalances in living organisms.  By reestablishing the natural pH balance of the body, different microorganisms such as virus, fungi, bacteria, and parasites can be kept under control by our renewed homeostasis and natural defenses.  The healing homeostasis process occurs when the pH balance is restored and optimized and it is this which determines the well-being of the person, which before the therapy was altered by the presence of pathogenic microorganisms that distorted the levels of acidity and alkalinity (pH) of the organs.  For example, all fish need water to survive but some need saltwater, whereas others need freshwater and each one of these must be maintained within a specific pH range.  Everyone, who has had an aquarium or pool, knows the importance of pH balance in the water.  We are not that much different than fish because our bodies are made up of over 70% water and we have a very specific pH balance that we need to maintain if we are to remain healthy!  If we reestablish our body’s natural pH balance in our liver, lungs, pancreas, kidneys, muscles, joints, stomach, small intestine, large intestine, etc., then these organs may continue functioning correctly again. The old saying, “You are what you eat” holds true.  If we eat acid-producing foods, then our bodies will shift towards a more acidic pH.  More acidic pH is believed to promote inflammation and chronic degenerative conditions.</p><p>The pH scale goes from 0 to 14, with 7 being neutral. Below 7 is acidic and above 7 is alkaline.  Arterial and venous blood must maintain a slightly alkaline pH: arterial blood pH = 7.41 and venous blood pH = 7.36. Because the normal pH of arterial blood (7.41) arise a variety of approaches based on increasing the alkalinity of the tissues, such as the vegetarian diet, the drinking of fresh fruit and vegetable juices, and dietary supplementation with alkaline minerals to maintain a more stable overall alkaline pH.  Although these strategies help maintain pH, they may not be enough in today’s harsh environment.</p><br><p class='multi-pathogen-image'><img src='../biomagnetism-and-magnetic-therapy-are-they-different-therapies-blog-1.png' class='blog-detailsImg-diabetes' style='width: 100%'></p><br><p>Dr. Goiz revealed that it is possible to recover healthy homeostasis metabolic states through the use of bio-magnetic fields of medium intensity, produced by magnets of 1,000 to 4,000 Gauss, applied in pairs in specific parts of the body called Biomagnetic Pairs (BMP).  Not all magnets are alike.  They come in different materials, shapes, sizes, etc.</p><p class='multi-pathogen-image'><img src='../biomagnetism-and-magnetic-therapy-are-they-different-therapies-blog-2.png' class='blog-detailsImg-diabetes' style='width: 100%'></p><p>The Gauss of a magnet refers to the magnetic strength properties of a specific magnetic material which is used to compare and rate different magnets.  Each magnet made from the same material will have different gauss readings based on size, weight, and shape.  Magnets for use in Biomagnetism with the <span><a href='https://itunes.apple.com/in/app/beyond-biomag-3d/id1161699021?mt=8' target='_blank'>Beyond Biomag 3D app</a></span> must have at least 1,000 surface Gauss so that they may provide the proper benefit.  Magnets are usually rated in terms of the Core Gauss or the Maximum magnetic force at the dead center of a magnet.  This is usually almost 10 times stronger than the surface gauss.  Therefore a magnet with 1,500 surface gauss will have about 14,000 core Gauss.  In order for Biomagnetism to function correctly, magnets of at least 1,000 surface gauss or 11,000 Core gauss or BrMax gauss or N40 or above ratings are desired for optimal use.  The ideal size and gauss strength magnets for Biomagnetism therapy can be ordered through the following website <span><a href='http://usbiomag.com/products/' target='_blank'> www.usbiomag.com/products </a></span></p><p>Using and applying these magnets in the proper locations found in our <span><strong>Beyond Biomag 3D app</strong></span> may help sustain normal metabolism in our bodies.  Give some of these pairs a try and observe how you feel afterward.  Use the dictionary search function in the app to identify the proper magnet pair placements and address the desired health interpretations.</p><br><p class='multi-pathogen-image'><img src='../biomagnetism-and-magnetic-therapy-are-they-different-therapies-blog-3.png' class='blog-detailsImg-diabetes' style='width: 100%'></p><br><p>Magnets must be placed for a long enough time on the body according to the geographical location of the user based on where he or she is on this earth relative to the equator which tends to have the most stable magnetic fields.</p><br><p class='multi-pathogen-image'><img src='../biomagnetism-and-magnetic-therapy-are-they-different-therapies-blog-4.png' class='blog-detailsImg-diabetes' style='width: 100%'></p><p>Examples of times to leave the magnets on the body can be found in the Guidelines section of the Beyond Biomag 3D app.<br>Best of health!</p>",
+                "blogDate": "Sep 29, 2017",
+                "blogTags": [
+                    "Biomagnetism and Magnetic Therapy"
+                ],
+                "blogAuthorImg": "../../assets/images/luis-f-garcia.png",
+                "path": "biomagnetism-and-magnetic-therapy-are-they-different-therapies",
+                "class": "pathogenBlogImg",
+                "Code": "BD001",
+                "id": "01"
+            },
+            {
+                "blogImg": "../../assets/images/diabetes-and-biomagnetism-blog-1.jpg",
+                "blogName": "Diabetes and Biomagnetism",
+                "blogReadmoreHref": "biomag-blog",
+                "Filter": [
+                    "Disease"
+                ],
+                "blogAdmin": "Luis F. Garcia, MD",
+                "blogReadmore": "Read more",
+                "shortDescription": "<p class='blogContent'>Millions of people around the world have been diagnosed with Diabetes (A group of diseases that result in too much sugar in the blood).  Traditional allopathic medicine states that it is an irreversible metabo ...</p>",
+                "fullDescription": "<p>Millions of people around the world have been diagnosed with Diabetes (A group of diseases that result in too much sugar in the blood).  Traditional allopathic medicine states that it is an irreversible metabolic and sometimes genetic problem that starts in the pancreas. In Diabetes, the pancreas does not produce enough insulin which is essential for the body to break down glucose into usable energy. Generally, a balanced low carbohydrate diet with the aid of pharmaceutical medication can help stabilize a person’s glucose metabolism.</p><br><p class='multi-pathogen-image'><img src='../diabetes-and-biomagnetism-blog-1.jpg'  class='text-md-center text-xs-center blog-detailsImg' style='text-align: center; margin: auto; width: 100%;'></p><br><P>Dr. Isaac Goiz Duran, founder of Biomagnetism states that most of the Diabetes cases are actually caused by the combination of different pathogens or infections including bacteria, virus, fungus and parasites that may cause inflammation to different parts of the pancreas or surrounding tissues.  These infections then interfere with proper glucose and insulin metabolism. He believes that modern medicine has focused too much on the symptoms of disease instead of the underlying causes.  What if the pancreas was indeed producing enough insulin but other metabolic cascades were not working properly because of different infections causing inflammation and therefore, interfering with the normal pancreatic production and metabolism of the insulin further down the line? What if there were several different infections (Staphylococcus aureus, Chlamydia, spirochetes, parasites, virus, fungi, and many others) affecting different parts of the Pancreas at the same time, such as the Pancreatic duct, the Hepatopancreatic Ampulla, and other critical areas? Dr. Goiz believes that these and other multiple infections throughout different areas of the body contribute to the varying diabetic complications such as strokes, blindness, heart attacks, kidney disease, high blood pressure, erectile dysfunction, peripheral neuropathy, etc.</P><br><p class='multi-pathogen-image'><img src='../diabetes-and-biomagnetism-blog-2.png' class='blog-detailsImg' style='width: 100%'></p><br><p>With Biomagnetism, one may address these different questions by placing the magnets over different parts of the Pancreas, the Liver, the Gallbladder, the Duodenum and many other areas to observe if there are any pH imbalances that may negatively be affecting the correct and proper functioning of the Pancreas or liver. It has been my personal experience that once many of these specific areas are pH balanced through Biomagnetism, the proper function and metabolism returns to the organ in question and the individuals observe significant changes within a few weeks in different areas of their health.</p><p>The dictionary search function in our <span><strong>Beyond Biomag 3D app</strong></span> will allow you to experiment the many different possibilities and interpretations regarding Diabetes. Applying magnets on proper positions may be important for sustaining normal function and metabolism.</p>",
+                "blogDate": "Aug 30, 2017",
+                "blogTags": [
+                    "Diseases"
+                ],
+                "blogAuthorImg": "../../assets/images/luis-f-garcia.png",
+                "path": "diabetes-and-biomagnetism",
+                "class": "pathogenBlogImg",
+                "Code": "BD001",
+                "id": "01"
+            },
+            {
+                "blogImg": "../../assets/images/malaria-and-biomagnetism-blog.png",
+                "blogName": "Malaria and Biomagnetism",
+                "blogReadmoreHref": "biomag-blog",
+                "Filter": [
+                    "Disease"
+                ],
+                "blogAdmin": "Luis F. Garcia, MD",
+                "blogReadmore": "Read more",
+                "shortDescription": "<p class='blogContent'>Yes, that's right. The deadliest and poorly misunderstood disease Malaria can be addressed with Biomagnetism!  So, you think just because you live in a country that's supposedly free of Malaria you are not at ...</p>",
+                "fullDescription": "<p>Yes, that's right. The deadliest and poorly misunderstood disease Malaria can be addressed with Biomagnetism!  So, you think just because you live in a country that's supposedly free of Malaria you are not at risk?  Wrong.  Not only has global warming contributed to mosquitoes living longer but also flying further and being more infectious than ever!  When in the Northeastern United States, the cold weather would traditionally kill off the mosquitoes in September. But now, with the warmer weather until November, one can still find some mosquitoes hanging around until late October early November which gives them more time to continue to transmit whatever infectious disease they are carrying!  The fact that air travel has also facilitated our travels around the world; everyone no longer needs to travel deep into the heart of the Amazon forest to get bitten by mosquitoes and acquire Malaria.  All it really takes is just a single mosquito bite right in your backyard in rural NJ or wherever you may be. It's not that the mosquito found its way from sub-Saharan Africa or South Asia or South America to NJ, but his parasitic passengers, the parasite species Plasmodium did.</p><p class='multi-pathogen-image'><img src='../malaria-and-biomagnetism-blog.png' class='text-md-center text-xs-center blog-detailsImg' style='text-align: center; margin: auto; width: 100%'></p><p>If a person from NJ travels to any one of the equatorial countries thousands of miles north or south of the equator for the summer and is bitten by a Malaria carrying mosquito, this person then returns home from vacation carrying the parasites.  Days or weeks later when a different mosquito bites this same person with Malaria, this mosquito is now able to then transmit it to any new person it bites in the same neighborhood from a range of several hundred feet up to a range of 3 miles away. Given that the lifespan of a female mosquito can be just over 50 days, and the fact that it can bite over 20 other people before it dies, leaving an exponential number of people infected with Malaria or any other mosquito carrying disease.</p><p class='multi-pathogen-image'><img src='../malaria-and-biomagnetism-blog-1.png' class='blog-detailsImg' style='width: 100%'></p><p><strong >Symptoms of Malaria</strong></p><p>Typical symptoms include but are not limited to: Chronic fatigue, malaise, fevers, night sweats, hot flashes, stiff neck, painful joints, fibromyalgia symptoms, lethargic, brain fog, flu-like illness, chills, headache, and muscle aches. Some less frequent symptoms can be anemia, jaundice, nausea, vomiting, and diarrhea.</p><p><strong >How I Healed Myself?</strong> </p><p>On a personal note, I had my first real encounter with Malaria back in July of 2013, when my wife and I traveled to India on vacation.  The day after returning, we fell ill and experienced all the above Malaria symptoms!  We were bedridden for 3 days!  When I finally had the energy and mental clarity to give my wife a Biomagnetism session, I discovered the Malaria pair Cervical vertebrae 3 / Bladder.  I placed this pair along with the others (found in the app when you type in Malaria) and within 20 minutes, she felt a dramatic change.  I then placed all those pairs on myself and experienced an equal dramatic difference.  We have been free of all those Malarial symptoms ever since that fateful day and today I find Biomagnetic Malaria pairs on patients on a weekly basis!  Thank you Biomagnetism!</p><p>Many of the Biomagnetism pairs for Malaria can be found in the Beyond Biomag 3D App.  Give them all a try and observe how you feel afterward.  It’s always a good idea to place the same magnet pairs on yourself once again about 10 to 15 days later just in case.</p><p>For more reading about how Malaria is more common than previously thought and how it helped America win independence, check out these great links!</p><p><a href='https://www.nytimes.com/2017/04/24/health/fatal-malaria-united-states.html'>https://www.nytimes.com/2017/04/24/health/fatal-malaria-united-states.html</a></p><p><a href='http://www.smithsonianmag.com/science-nature/how-lowly-mosquito-helped-america-win-independence-180959411/'>http://www.smithsonianmag.com/science-nature/how-lowly-mosquito-helped-america-win-independence-180959411/</a></p><p class='text-xs-right'>Best of health to all.<br><strong>Luis F. Garcia, MD</strong></p>",
+                "blogDate": " Aug 14, 2017",
+                "blogTags": [
+                    "Diseases"
+                ],
+                "blogAuthorImg": "../../assets/images/luis-f-garcia.png",
+                "path": "malaria-and-biomagnetism",
+                "class": "pathogenBlogImg",
+                "Code": "BD007",
+                "id": "07"
+            },
+            {
+                "blogImg": "../../assets/images/biomagnetism-and-lyme-disease-multi-pathogen-syndrome-blog.png",
+                "blogName": "Biomagnetism and Lyme Disease: Multi-Pathogen Syndrome",
+                "blogReadmoreHref": "biomag-blog",
+                "Filter": [
+                    "Disease"
+                ],
+                "blogAdmin": "Luis F. Garcia, MD",
+                "blogReadmore": "Read more",
+                "shortDescription": "<p class='blogContent'>The following is based on my professional clinical experiences with 'Lyme disease' and the clients diagnosed with it. Lyme disease is the term used to describe a tick-borne disease caused by the transmission of...</p>",
+                "fullDescription": "<p>The following is based on my professional clinical experiences with 'Lyme disease' and the clients diagnosed with it.<br><br>Lyme disease is the term used to describe a tick-borne disease caused by the transmission of Borrelia burgdorferi bacteria through a tick bite.<br><br><strong class= 'blog-page-Pathogen' >Life Cycle of Borrelia burgdorferi</strong><br><br><p class='multi-pathogen-image'><img src='../biomagnetism-and-lyme-disease-multi-pathogen-syndrome-blog.png' class='blog-detailsImg' style='width: 100%'></p><br><br><strong class= 'blog-page-Pathogen' >Symptoms of Lyme Disease</strong><br><br>Typical symptoms include fever, headache, fatigue, and a characteristic skin rash called erythema migrans.<br><br><p class= 'multi-pathogen-image'><img src='../biomagnetism-and-lyme-disease-multi-pathogen-syndrome-blog-1.jpg'  class='blog-detailsImg' style='width: 100%'></p><br><br>In my experience, it should be renamed to something along the lines of Co-Infection Soup Syndrome or Lyme Disease: Multi-Pathogen Syndrome.  I use this term because, in my personal and careful analysis of hundreds of 'Lyme' clients, I have observed many different pathogens contributing to the varied symptoms that they present.  For example, the most common pathogens that I have observed according to Biomagnetism and Bioenergetic interpretation have been:<br><br><ul class='pathogen-subcontent'><li class='pathogen-list-styles'> Plasmodium species (malaria), Mycobacterium tuberculosis, Yersinia pestis (the Plague), Epstein Barr Virus, Cytomegalovirus, Borrelia burgdorferi (standard Lyme), Dengue, Bartonella, Babesia, Mycoplasma pneumonia, Proteus mirabilis, Candida, Rabies virus and Entamoeba histolytica among others.  Even though I scan with muscle testing for hundreds of pathogens ranging from bacteria, virus, fungi, and parasites among all my clients, these have been the most common amongst 'Lyme' clients.</li><br><li class='pathogen-list-styles'>Not only do they have a combination of these in one session, but over the course of several sessions, the rest of the pathogens begin to appear.  The clients also frequently get re-contaminated with either the same ones such as Plasmodium species (because it's summer and they are bitten by mosquitos and think nothing of it, yet the mosquitos were carrying it) and or Bartonella, Dengue or any one of the many mosquito-borne diseases.</li><br><li class='pathogen-list-styles'>Another frequent recurrence is from pets such as dogs picking up the ticks outside and then passing them on to their household members.  Hence, Lyme is a Multi-Pathogen Syndrome (MPS) that is constantly changing as a result of a weakened immune system.</li></ul><br>How is it that some people were bitten by ticks or mosquitos and nothing happens?  My observation has been that these people have a more balanced lifestyle in terms of less emotional stress, healthier nutritional habits, better sleep, more stable emotions, less toxic body burden, etc.  Overall, those affected by 'Lyme' are at their body's maximum limit for stress in one way or another and their immune system fails them and slowly but surely these different infections either creep in over time, hiding in different organs waiting for the right time to come out and flourish, or they have been there for many years.<br><br>For example, an Epstein Barr viral infection that caused Mononucleosis in their youth and knocked them out for a few weeks then, now in adulthood with stress, resurfaces and knocks them out again but this time in combination with these other co-infections.   In theory, giving antibiotics for some of these bacterial infections should work, but seeing as how it is multi-pathogenic, what of the viral infections?  What if there are multiple bacterial infections at the same time in different organs resistant to the antibiotics?  What of the fungal overgrowth caused by the combination of the weakened immune system and the overuse of antibiotics that knocks out the gut flora?  What about the parasitic infections that go unregulated and overlooked by nearly all Lyme doctors? <br><br>As you can see, 'Lyme Disease' is a multi-factorial disease that must be addressed as holistically as possible.  Does the individual have too much emotional stress other than their illness that is causing an overload on their adrenals and thereby dropping their immune system?  Is the individual toxic with lead, aluminum, mercury, arsenic, cadmium, etc., so that their metabolism and the immune system are compromised physiologically?<br><br>Is the individual eating healthy nutritious foods that will aid the body to recover and produce what it needs to fight off the many infections?  Are they eating a more balanced alkaline diet to help stabilize their body's pH balance? Are they getting enough good quality sleep?<br><br>These and many more questions must be considered in a Lyme disease case and evaluated and addressed accordingly with Biomagnetism and Bioenergetics.<br><br>Many of the Biomagnetism pairs to these pathogens can be found in the&nbsp<span><strong>Beyond Biomag 3D App.</strong></span></a> Best of health to all.</p>",
+                "blogDate": " Aug 08, 2017",
+                "blogAuthorImg": "../../assets/images/luis-f-garcia.png",
+                "blogTags": [
+                    "Diseases"
+                ],
+                "path": "biomagnetism-and-lyme-disease-multi-pathogen-syndrome",
+                "class": "pathogenBlogImg",
+                "Code": "BD008",
+                "id": "08"
+            },
+            {
+                "blogImg": "../../assets/images/fungus-on-the-hands-blog.png",
+                "blogName": "Fungus on the Hands",
+                "blogReadmoreHref": "biomag-blog",
+                "Filter": [
+                    "Before and After Biomagnetism Therapy"
+                ],
+                "blogAdmin": "Luis F. Garcia, MD",
+                "blogReadmore": "Read more",
+                "shortDescription": "<p class='blogContent'>An older male client with apparently &quot;rough hands&quot for the last 8 months approached for Biomagnetism Therapy. He was a professional carpenter and assumed that he eventually developed an allergic react ...</p>",
+                "fullDescription": "<p><strong>Fungus on the Hands</strong><br>An older male client with apparently &quot;rough hands&quot; for the last 8 months approached for Biomagnetism Therapy. He was a professional carpenter and assumed that he eventually developed an allergic reaction to one of the many types of wood that he had been in contact with throughout the years.  He could not identify the exact cause and sought medical attention on several occasions visiting different dermatologists for several months.<br><br><strong>Before Biomagnetism:</strong><span>Dry cracked and peeling skin on fingers and palms can be observed despite gentleman having tried steroid, antifungal and moisturizing creams and lotions for months as prescribed by the different Medical professionals.</strong><br><br><img src='../fungus-on-the-hands-blog.png' class='text-md-center text-xs-center blog-detailsImg'  style='text-align: center; margin: auto; width: 100%'><br><br><strong>After Biomagnetism:</strong><span>3 weeks after the first session, client's hands recovered back to the normal skin without the further need of expensive creams and visits to specialists for &quot;Excessively dry skin&quot; or &quot;Allergic reactions&quot;.<br><br>Magnets were placed on biomagnetism pairs relating to fungus and an underlying virus resonating with the fungus. This case highlights just how quickly the body can heal itself if given the proper conditions with regards to pH balance, magnetic energy, and nutrition as he had also been told to limit his sugar intake and improve his nutrition.</p>",
+                "blogDate": " May 24, 2017",
+                "blogAuthorImg": "../../assets/images/luis-f-garcia.png",
+                "blogTags": [
+                    "Before and After Biomagnetism Therapy"
+                ],
+                "path": "fungus-on-the-hands",
+                "class": "",
+                "Code": "BD004",
+                "id": "04"
+            },
+            {
+                "blogImg": "../../assets/images/measles-on-the-legs -blog.png",
+                "blogName": "Measles on the Legs",
+                "blogReadmoreHref": "biomag-blog",
+                "Filter": [
+                    "Before and After Biomagnetism Therapy"
+                ],
+                "blogAdmin": "Luis F. Garcia, MD",
+                "blogReadmore": "Read more",
+                "shortDescription": "<p class='blogContent'>A young female client in late 20’s developed an itchy red rash on both of her legs that appeared just a few days after her spring break vacation.  She was not sure where she picked it up from or what it was  bec...</p>",
+                "fullDescription": "<p><strong>Measles on the Legs</strong><br>A young female client in late 20’s developed an itchy red rash on both of her legs that appeared just a few days after her spring break vacation.  She was not sure where she picked it up from or what it was because she had been up to date with all of her vaccines. The client admitted to being in hotel pools and jacuzzis during vacation.  She wanted to give Biomagnetism a try, before booking an appointment with a Dermatologist to get their opinion and discuss what she should do about her condition.<br><br><strong>Before her Biomagnetism Session:</strong><span>Image of the client's legs with visible red rash.</span><br><br><img src='../measles-on-the-legs -blog.png' class='text-md-center text-xs-center blog-detailsImg'  style='text-align: center; width: 100%; margin: auto;'><br><br><strong>5 days after Biomagnetism Session: </strong><span>Magnets were placed on the relevant biomagnetism pairs relating to the English Measles virus.  After just one session, her itching stopped 12 to 24 hours afterward and both of her legs cleared up completely by the 6th day.<br><br>She no longer felt the need to see the specialist as the rash is cleared completely. Thanks to Biomagnetism. She has remained rash free ever since.</p>",
+                "blogDate": " May 24, 2017",
+                "blogAuthorImg": "../../assets/images/luis-f-garcia.png",
+                "blogTags": [
+                    "Before and After Biomagnetism Therapy"
+                ],
+                "path": "measles-on-the-legs",
+                "class": "",
+                "Code": "BD005",
+                "id": "05"
+            },
+            {
+                "blogImg": "../../assets/images/biomag-blog-banner.png",
+                "blogName": "Behold! Beyond Biomag 3D iOS App is Here.",
+                "blogReadmoreHref": "biomag-blog",
+                "Filter": [
+                    "news-and-events"
+                ],
+                "blogAdmin": "Beyond Biomag Team",
+                "blogReadmore": "Read more",
+                "shortDescription": "<p class='blogContent'>It's been a week since we launched Beyond Biomag 3D a reference app for biomagnetism practitioners and clients to locate the Anatomical Biomagnetism pairs in the human body using 3D male and female models ...</p>",
+                "fullDescription": "<p>It's been a week since we launched <a href='https://itunes.apple.com/in/app/beyond-biomag-3d/id1161699021?mt=8' target='_blank'><span class='biomagBlog'>Beyond Biomag 3D</span></a> reference app for biomagnetism practitioners and clients to locate the Anatomical Biomagnetism pairs in the human body using 3D male and female models. <br><br>With the help of this app, users can self-heal his/her health concerns using a pair of magnets of medium intensity. It assists users to understand various scan points and their corresponding pairs in the body, where the user has to place the magnets to neutralize the pH level. The app is designed with 3D model representation of male and female bodies, scan guide briefing about scan points and their respective therapies, and a dictionary with anatomical biomagnetism pairs.</p><h4 class='blog-headings'><strong>Amazing Features</strong></h4><h5 class='blog-subheadings'><strong>3D Models</strong></h5><p>The app is developed using Unity 3D engine, which allows you to rotate the 3D models in 360 degrees to locate scan points and corresponding pairs. </p><p class='text-md-center text-xs-center'> <img src='../3D engine.png' class='text-md-center text-xs-center' style='text-align: center; margin: auto;'></p><br><br><h5 class='blog-subheadings'><strong>Reliability in Self Healing</strong></h5><p>With precise spotting of scan points on the 3D model and easy navigation to a specific body section, our Beyond Biomag 3D app makes self-healing easier and effective. </p><p class='text-md-center text-xs-center'><img src='../Self-Healing.png' class='text-md-center text-xs-center' style='text-align: center; margin: auto;'></p><br><br><h5 class='blog-subheadings'><strong>Dictionary</strong></h5><p>The built-in dictionary that allows you to search for anatomical biomagnetism pairs based on health concerns and associated microbiome.</p><div class='text-md-center text-xs-center' style='display: inline-block;margin: auto;'><p class='blog-images-dictionery'><img src='../dictionary1.png' class='text-md-center text-xs-center'><img src='../dictionary2.png' class='text-md-center text-xs-center'></p><br><br></div><h5 class='blog-subheadings'><strong>Gender Switch</strong></h5><p>Easy toggling between male & female models. The app functionalities are similar in both the models.</p><p class='text-md-center text-xs-center'><img src='../gender-switch.png' class='text-md-center text-xs-center' style='text-align: center; margin: auto;'></p><br><br><h5 class='blog-subheadings'><strong>Language</strong></h5><p>The application interface currently supports switch between English and Spanish language. </p><p class='text-md-center text-xs-center'><img src='../language.png' class='text-md-center text-xs-center'  style='text-align: center; margin: auto;'></p><br><br><p>An iOS user can start using the Beyond Biomag 3D app today by downloading it for free from the App Store. The free version has 25 Biomagnetism Pairs. To explore the app with 250+ biomagnetism pairs and 1000+ health concerns, you can subscribe to our annual plan for $99.99 only (taxes applicable).<br><br>Download the app today and enjoy the amazing benefits of <span class='biomag-blog-alignment'>Beyond Biomag 3D.</span></p>",
+                "blogDate": "May 24, 2017",
+                "blogAuthorImg": "../../assets/images/Beyond-Biomag-Logo.png",
+                "blogTags": [
+                    "News and Events"
+                ],
+                "path": "behold-beyond-biomag-3d-ios-app-is-here",
+                "class": "",
+                "Code": "BD006",
+                "id": "06"
+            }
+        ]
+    },
+    "training": {
+        "trainingImage": "../../assets/images/training2-header.png",
+        "trainingPara": "<b>Presented by Luis F. Garcia, MD</b>",
+        "trainingButton": "Reserve your seat",
+        "trainingSubContent": "Unleash your power to heal in our live 5 day training seminar designed to teach how to apply Biomagnetism Therapy to help you improve the quality of life of your clients.",
+        "trainingHeading": "<b>Unleash Your Power to Heal: <br>Biomagnetism and Beyond, Training Seminar(In English).<br>May 22nd-26th, 2019</b>",
+        "trainingContent1": "<p>“This is only the beginning of a transformational wave that is moving across the globe and needs to be known. I want to be part of that healing medical movement!”.<br><br> This training seminar will be presented in <span class='biomag-blog-alignment'>English</span> by <span class='biomag-blog-alignment'>Luis F. Garcia, MD</span><span><a href='http://www.usbiomag.com/aboutus' target='_blank'> (www.usbiomag.com/aboutus).</a></span> Dr. Garcia will teach theory and hands on practice daily. During the course, we will feature our guest lecturer and legal attorney, Ralph Fucettola JD <span><a href='http://www.naturalhealthoptions.net/' target='_blank'> (www.naturalhealthoptions.net/) </a></span> He will address the audience on the proper informed consent format to use and legal issues encountered that must be adhered when applying the Biomagnetism Therapy in the United States.</p><h4 class='trainingPageHedclr'>Why is Dr. Garcia offering this seminar?</h4><p> This seminar will be a combination of critical information that Dr. García has personally attained as a Biomagnetism practitioner (Over 10 years), as well as his attendance to over 22 Biomagnetism courses, mostly taught by Dr. Goiz himself.  “I admire, respect, and thank Dr. Isaac Goiz Duran for his “Nobel prize worthy” genius work and effort.  Dr. Goiz’s method is unique and so are his discovered pairs and his therapy continues to evolve.  This is only the beginning of a transformational healing wave that is moving across the globe.  I want to be part of that healing medical movement!”, Dr. Garcia declares.<br><br>Being a Medical Doctor and experiencing firsthand the miraculous changes and benefits of this therapy with thousands of his patients, Dr. Garcia wanted to responsibly bring as much of this therapy to the world so that thousands of lives may continue to benefit.  Although some have recommended to simply heal and remain silent, Dr. Garcia feels that silence is no longer an option anymore.  Modern medical science is only now beginning to recognize this therapy as it is formally being taught in medical schools in Spain and in Mexico.  Too many people need this therapy and information NOW.  As a Medical Doctor, Dr. Garcia felt it was his moral and ethical responsibility to shed light on Biomagnetism and share it with his medical colleagues and the thousands of others in search of a powerful natural modality to balance health.  His training seminar and phone app attempt to answer questions for all mankind about our health.  Dr. Garcia has combined his knowledge from many other Biomagnetism mentors around the world including Dr. Miguel Ojeda, Dr. Salvador Gutierrez Rodriguez de Mondelo, Dr. Enrique de Juan Gonzalez de Castejon, Dr. Mario Ricardo Rodriguez, Jorge Mena PhD, Antonio Salas PhD, Gustavo Guayasamin, Jorge Tapia, Carlos Zamora, and Alejandro Lavin.<br><br>Let us all unite and continue to make this a global phenomenon one relevant Biomagnetic pair at a time.  I welcome your feedback and look forward to meeting you at the seminar.I would like to conclude with a quote that a medical colleague used as well about this therapy being made public.<br><br><strong class='italic-font'>“Science and art belong to the whole world, and the barriers of nationality vanish before them” – Johann Wolfgang von Goethe &nbsp;(1749-1832)</strong><br></p><h4 class='trainingPageHedclr'>Course Content:</h4><ul class='CourseContent'><li>Background of Biomagnetism and basic terms</li><li>Difference between Dr. Goiz Biomagnetism and Magnetic Therapy</li><li>Preventive, diagnostic, and therapeutic system</li><li>Concept of pH in the body</li><li>Biomagnetic Pairs, pathogens, and organ dysfunction</li><li>Electromagnetic fields and their effects on the body</li><li>Electromagnetic Resonance</li><li>Basic concepts in microbiology: Bacteria, Virus, Fungus, Parasites, other</li><li>Synergies between the different pathogenic microorganisms</li><li>Biomagnetic Pairs and disease</li><li>Therapeutic action of magnets</li><li>Types of magnets</li><li>Polarity of magnets</li><li>Warnings about the use of magnets</li><li>Care of magnets</li><li>Poles and scanning biomagnetic points</li><li>Hands-on clinical practice</li><li>Horizontal and vertical pairs</li><li>Kinesiological phenomenon of hemibody shortening</li><li>Types of Biomagnetic Pairs</li><li>Legal precautions</li><li>Important practical details and examples, how to hold the patient's feet, how to avoid errors, etc.</li><li>Tumor Factors</li><li>Healing Crisis</li><li>Precautions after the session</li><li>Duration of biomagnetism treatment</li><li>Problem of re-infection, reservoirs, and personal pairs: solutions</li><li>Golden rules in Biomagnetism</li><li> Cancer, HIV, allergies, asthma, arthritis, diabetes, hypertension, endocrine dysfunctions, hernias, Lyme, Autism and other diseases will be addressed.</li> <li>Bioenergy basics </li><li>Bioenergy basics</li><li>Methodology for exploration with Bioenergy</li></ul><br><img class='hotel-accomadation-img' src='training-therapist.png'><br><br><div class='trainingDetails'><div class='class-schedule-backclr'><h4 class='trainingPageHedclr'>Class Schedule:</h4><ul class='CourseContent'><li>Wednesday, May 22, 2019 | 8:30 am-7:00 pm.</li><li>Thursday May 23 to Sunday May 26, 2019 | 9:00 am-7:00 pm</li><li>Lunch breaks will be from 1:30-3:00 pm (Lunch not included).</li><li>Two daily 30 minutes coffee/snack breaks from 11:00-11:30 am and 5:00-5:30 pm <br>(included during the seminar).</li></ul></div><p><h4 class='trainingPageHedclr'>Lunch Options:</h4> There are over 10 restaurants within a 5-10 minute walk from the hotel. The hotel will also have lunch specials for our group, including variety of healthy options for your purchase.<br><br>All attendees will receive a certificate of completion of the Biomagnetism and Beyond Level 1 training course upon completion of the 5th day of class. This certificate will be issued by Dr. Garcia and its importance will be explained during the training seminar.<br><br><h4 class='trainingPageHedclr'>Course and Hotel Accommodations:</h4><p> The course will be held at the Holiday Inn Hasbrouck Heights Meadowlands, New Jersey, just minutes away from New York City.<br><span class='training-mt-3'><strong>Address:</strong> 283 NJ-17, Hasbrouck Heights, NJ 07604</span><br><span class='training-mt-3'><strong>Phone:</strong> (201) 288-9600</span><br><br><img class='hotel-accomadation-img' src='biomag-class-schdule.png'><br><br> Each attendee is responsible for making their own hotel reservations.  We have a special and limited discounted group rate, which includes free WiFi. These rooms are selling out earlier than expected and we have a limited quantity available for our students at the discounted rate. Please book ASAP to avoid standard fee (and reserve your room).<br><br> Please, either mention Biomagnetism and Beyond Level 1 training seminar or use the following code <span><b>(Beyond Biomagnetism)</b></span> to reserve at this special rate throughout the conference. The special rate is for a limited time only and will be available based on hotel occupancy. Thursday, April 25, 2019, the hotel will release the unreserved rooms for general sale and only accept reservations based on availability and regular higher prices will prevail.</p><h4 class='trainingPageHedclr'>Class Requirements:</h4><P> You will need to bring your own notebooks. Pens will be provided.</P><P>Dress code: This is a professional training seminar, as such, professional attire is required. Please, no shorts, sweat pants, tank tops, tee-shirts, sandals, Crocs or flip-flops.</P><P class='fees-mr-0'> Name badges will be provided, and they must be visible during the duration of the seminar.</P></div><p>so that you can learn to use it as a reference tool during the seminar and beyond.</P><h4 class='trainingPageHedclr'>Registration:</h4><p class='fees-mr-0'>Register now by filling out our online application form:<br><a href='http://usbiomag.com/registration/' target='_blank'><br><span class='training-button register-btn'>Click Here</span></a><br><br></p><h6> To register, you will need:</h6><p class='fees-mr-0'><ul class='CourseContent'><li><span><a href='http://usbiomag.com/registration/' target='_blank'>Fill out our online application form.</a></span></li><li>Pay for the training seminar.</li><li>After completion of payment, you will receive an email confirmation that you are officially enrolled in the seminar and your spot will be reserved.</li></ul></p><p> We have a class limit of 60 people for this seminar.  We suggest you complete your reservation early so that you can secure your place for the training.  Previous Biomagnetism seminars have sold out well in advance of the courses in the United States.</p><div class='class-fee-backclr'><h4 class='trainingPageHedclr'>Fees:</h4 ><h6 style='margin:0 !important; padding:0'>The fee for this training is:</h6><p class='fees-mr-0'><b>$1,895.00-if $500</b> deposit is paid before Apr 1, 2019. Complete payment of $1,395 by May 3rd.</p><p class='fees-mr-0'><b>$2,100.00-</b>to be paid in full for registrations after May 3rd, 2019.</div></p><br><p><span class='biomag-blog-alignment'> Send a deposit of $500 to hold your spot and complete full payment by May 3rd,2019 to avoid the additional fee</span></p><h4 class='trainingPageHedclr'>Payment Methods:</h4><ul class='CourseContent'><li>Credit Card using PayPal</li><li>Check made out to Garcia Consulting LLC</li><li>Electronic Bank transfer or Bank deposit </li></ul><h4 class='more-details-font'>For more details: <span><a href='mailto:info@usbiomag.com'>info@usbiomag.com</a></span></h4><br><h4 class='trainingPageHedclr'>Cancellation Policy:</h4><ul class='CourseContent'><li>Cancellation requests received on or before May 3rd, 2019 will incur in a $250 cancellation fee plus any PayPal or bank fees.</li><li>All cancellation requests must be submitted in writing by email to info@usbiomag.com It may take 1-2 weeks to process the refund.</li><li>There will be no refunds if cancellation request is received after May 15, 2019. </li></ul><h4 class='trainingPageHedclr'>Contact Information:</h4><p class='fees-mr-0'><span>Email:&nbsp;<a href='mailto:info@usbiomag.com'> info@usbiomag.com</a></span></p><p class='fees-mr-0'>Juliana Garcia: 732-983-8616 </p><br><h4 class='trainingPageHedclr'>Realistic Expectations:</h4><p> This course is designed for health professionals such as medical doctors, specialized therapists like chiropractors, osteopaths, physical therapists, etc., both professionals and students, veterinarians, dentists, nurses, and anyone that wants to enjoy of good health and share with family or simply help others to heal themselves.  Biomagnetism is compatible with all other therapies and treatments such as flower essences, Emotional Freedom Technique, hypnotherapy, Neuro Linguistic Programming, psychology, acupuncture, homeopathy, naturopathy, orthomolecular medicine, herbal medicine, etc… Biomagnetism may also be combined with conventional medical and pharmacological treatments.  It may benefit chronic and degenerative conditions. In fact, thousands of allopathic doctors are already using this powerful technique in their medical offices, either publicly or secretly, to complement and enhance their medical treatments.A basic yet minimum knowledge of anatomy and physiology is strongly recommended.  Although there is no prerequisite for this course, students can study these subjects later at their own pace.  The only prerequisite for this course is having an open mind free from prejudice and the desire to learn and help others.</p><p>We recommend that you download and subscribe to our&nbsp;<span class='biomag-blog alignment'>Beyond Biomag 3D App</span></p><div class='col-md-12 training-app-padding'><div class='training-app-buttons'><a href='https://itunes.apple.com/in/app/beyond-biomag-3d/id1161699021?mt=8' target='_blank'><img class='app-button-training' alt='' src='app-store-button.png' width='140px'></a><a href='https://play.google.com/store/apps/details?id=com.helensys.biomag&#10;' target='_blank'><img class='app-button-training' alt='' src='android-app-store.png' width='140px'></a></div></div><p class='training-app-contents2'>so that you can learn to use it as a reference tool during the seminar and beyond.</P>",
+        "trainingImageBottom": "../../assets/images/training-group.png",
+        "Code": "TR001",
+        "id": "01"
+    },
+    "Biomag3DFeatures": {
+        "Biomag3DTitle": "Beyond Biomag 3D",
+        "Biomag3DImage": "../../assets/images/biomag3d.png",
+        "Biomag3DAppleDownload": "../../assets/images/app-store-button.png",
+        "Biomag3DAppleDownloadLink": "https://itunes.apple.com/in/app/beyond-biomag-3d/id1161699021?mt=8",
+        "Biomag3DAndroidDownload": "../../assets/images/android-app-store.png",
+        "Biomag3DAndroidDownloadLink": "https://play.google.com/store/apps/details?id=com.helensys.biomag",
+        "target": "_blank",
+        "Biomag3DWidgets": [
+            {
+                "id": "01",
+                "Biomag3DIcon": "../../assets/images/icon-3d.png",
+                "Biomag3DHeading": "Interactive 3D Models",
+                "Biomag3DDescription": "360 degree representation of Male and Female 3D models to help locate Scan Points and Corresponding Pairs."
+            },
+            {
+                "id": "02",
+                "Biomag3DIcon": "../../assets/images/icon-language.png",
+                "Biomag3DHeading": "Multiple Languages",
+                "Biomag3DDescription": "The application interface currently supports switch between English and Spanish Language. Other language support to follow."
+            },
+            {
+                "id": "03",
+                "Biomag3DIcon": "../../assets/images/icon-navigation.png",
+                "Biomag3DHeading": "Easy Navigation",
+                "Biomag3DDescription": "Navigate to a specific location either by rotating the 3D model or selecting a particular body section."
+            },
+            {
+                "id": "04",
+                "Biomag3DIcon": "../../assets/images/icon-dictionary.png",
+                "Biomag3DHeading": "Dictionary",
+                "Biomag3DDescription": "Search information by anatomical biomagnetism pairs, microbiome, interpretation and locations."
+            },
+            {
+                "id": "05",
+                "Biomag3DIcon": "../../assets/images/icon-gender.png",
+                "Biomag3DHeading": "Gender Switch",
+                "Biomag3DDescription": "Easy toggling between the Male and Female models. The app functionalities are similar in both the models."
+            },
+            {
+                "id": "06",
+                "Biomag3DIcon": "../../assets/images/icon-play.png",
+                "Biomag3DHeading": "Play Scan Points",
+                "Biomag3DDescription": "Plays all the scan points on the Anatomical model by highlighting them one-by-one."
+            }
+        ]
+    },
+    "PractitionerFeatures": {
+        "PractitionerTitle": "Beyond Biomag Practitioner",
+        "PractitionerImage": "../../assets/images/biomag-practitioner.png",
+        "practitionerAppButtonImgLink": "",
+        "practitionerAppcomingsoonButton": "../../assets/images/app-store-comingsoon-button.png",
+        "PractitionerWidgets": [
+            {
+                "id": "01",
+                "PractitionerIcon": "../../assets/images/icon-details.png",
+                "PractitionerHeading": "Capture Client Details",
+                "PractitionerDescription": "Managing biomagnetism and other details for a client is simple and intuitive. Add client's profile picture for easy reference."
+            },
+            {
+                "id": "02",
+                "PractitionerIcon": "../../assets/images/icon-history.png",
+                "PractitionerHeading": "Therapy History",
+                "PractitionerDescription": "Seamless access to client's therapy history - anytime and anywhere."
+            },
+            {
+                "id": "03",
+                "PractitionerIcon": "../../assets/images/icon-sittings.png",
+                "PractitionerHeading": "Sitting Details",
+                "PractitionerDescription": "Manage sitting details of a client such as identified biomagnetism pairs, interpretation, microbiome and reference notes."
+            },
+            {
+                "id": "04",
+                "PractitionerIcon": "../../assets/images/icon-ui.png",
+                "PractitionerHeading": "Intuitive User Interface",
+                "PractitionerDescription": "Interface ensures an ambient user experience for practitioner who constantly use the app."
+            },
+            {
+                "id": "05",
+                "PractitionerIcon": "../../assets/images/icon-share.png",
+                "PractitionerHeading": "Share Critical therapy Info",
+                "PractitionerDescription": "Capture and share information of critical and informative therapies performed on clients to help the Biomagnetism community."
+            },
+            {
+                "id": "06",
+                "PractitionerIcon": "../../assets/images/icon-upload.png",
+                "PractitionerHeading": "Upload client records.",
+                "PractitionerDescription": "Upload Client records and their sitting information for easier future reference."
+            }
+        ]
+    },
+    "counter": {
+        "background": "Background-image-1.jpg",
+        "counter": [
+            {
+                "counterNumber": "250+",
+                "counterPoints": "Biomagnetism Pairs",
+                "Code": "CO001",
+                "id": "01"
+            },
+            {
+                "counterNumber": "1000+",
+                "counterPoints": "Health Concerns",
+                "Code": "CO002",
+                "id": "02"
+            }
+        ]
+    },
+    "Youtube": {
+        "youtubeTitle": "Quick links:",
+        "youtubeLinks": "Dr. Garcia's Biomagnetism Links",
+        "youtubeLinksDetails": "<a href='https://www.youtube.com/watch?v=uOcYOcYzG5c' target='_blank'>Dr Garcia and Biomagnetism </a><br><a href='http://usbiomag.com/testimonials/' target='_blank'> Biomagnetism - Before After Results</a><br><a href='http://usbiomag.com/what-is-biomagnetism/' target='_blank'>usbiomag.com</a>",
+        "Code": "YO001",
+        "id": "01"
+    },
+    "request": {
+        "title": "Request a call back",
+        "subTitle": "Would you like to get a call back?",
+        "placeHolder": "Enter your phone number",
+        "buttonValue": "Send",
+        "Code": "RE001",
+        "id": "01"
+    },
+    "aboutUs": {
+        "title": "Short note about us",
+        "description": "To empower the natural healing therapy, Beyond Biomagnetism introduced two apps to assist biomagnetism practitioners in the therapy of clients as well as capturing all medical information regarding the therapy of a client.",
+        "Code": "AB001",
+        "id": "01"
+    },
+    "contactUs": {
+        "title": "Contact Us",
+        "description": "Garcia Tech LLC,<br>138 Riverbend Drive,<br>North Brunswick, NJ 08902<br><br><strong>Email:</strong><a href='mailto:info@beyondbiomag.io'> info@beyondbiomag.io</a>",
+        "Code": "CO001",
+        "id": "01"
+    },
+    "footer": {
+        "copyright": "©2017 Garcia Tech, LLC. All Rights Reserved.",
+        "privacypolicyTitle": "Site Use Terms & Privacy Policy",
+        "createdBy": "<p>Website and App created by&nbsp;<span><a href='http://helenzys.com/' class='privacypolicyTitle' target='_blank'>Helenzys Inc.</a></span></p>",
+        "ConsumerReviewDisclaimer": "<p>Consumer Review Disclaimer: <br>&quot;We do not [monitor/moderate] or control the content of consumer reviews but reserve the right to remove what are, in our sole opinion, clearly false statements, spam or other injurious materials that are brought to our attention. We do not adopt or endorse any review statement.&quot;</p>",
+        "NonMedicalDeviceDisclaimer": "<p>Non-Medical Device Disclaimer: <br>&quot;Not intended to treat disease, support or sustain human life, or to prevent impairment of human health&quot;</p>",
+        "Code": "FO001",
+        "id": "01"
+    },
+    "privacypolicy": {
+        "privacypolicyTitle": "Site Use Terms & Privacy Policy",
+        "privacypolicyMainHeading": "BEYOND BIOMAGNETISM",
+        "privacypolicycontent": "<h4 class='vmo-licence-title'>PRIVACY POLICY</h4><hr><p>This policy describes how we collect, use, and share personal information when you use our website, www.beyondbiomag.io or our applications, Beyond Biomag Practitioner iOS App (Upcoming) and Beyond Biomag 3D App and Beyond Biomag Practitioner Web App (“Application(s)”) or the services we provided (“Services”). We created this policy to expound our commitment to safeguard your privacy and your personal information. Your use of and access to the Website / Application(s) is subject to this policy and our Terms of Use. By using the Website / Application(s) or by otherwise giving us your information, you will be deemed to have read, understood and consent to the policies and practices outlined in this policy and agree to be bound by the same. You hereby accede to our collection, use, and sharing of the disclosure of your information as described in this policy. We reserve the right to modify, add or delete portions of the terms of this policy, at our sole discretion, at any time. If you do not agree with this policy at any time, do not use any of the Services or give us any of your information. If you use the Services on behalf of someone else (such as your child) or an entity (such as your employer), you represent that you are authorised by such individual or entity to (i) accept this policy on such individual’s or entity’s behalf, and (ii) consent on behalf of such individual or entity to our collection, use, and disclosure of such individual’s or entity’s information as described in this policy. This policy does not apply to websites that post different statements.</p><p><a href='http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.32685/abstract;jsessionid=0A58B9C77F79208BB112EAE56CE5161E.f04t02'>  http://onlinelibrary.wiley.com/doi/10.1002/jbm.b.32685/abstract;jsessionid=0A58B9C77F79208BB112EAE56CE5161E.f04t02</a></p><h6 class='vmo-licence-title'>Disclosure for the Beyond Biomag 3D App:<br><br></h6><p>This App is intended to provide easy access to information related to health conditions or therapies, based on traditional anatomical magnet placement.<br><br>Not intended to treat, prevent, mitigate or cure any medical or psychological condition, or to support or sustain human life, or to prevent impairment of human health; for self-education purposes. The use of some medical terms of art is intended for practitioner convenience.<br><br>We use cookies, web beacons, or unique device identifiers to anonymously identify your device so that we can deliver a better experience. Our systems may also log information like your operating system as well as certain information about your use of the applications provided to you.<br><br>To customise our service for you, we may collect, use and share precise location data, including real-time geographic location of your computer or device.<br><br>We do not collect personally identifiable information about you without your permission. In other words, we do not collect information such as your name, address, phone number or email address unless you voluntarily provide it to us.<br><br>We do not receive any information about you from other sources outside of your interaction with Website / Application(s).<br><br>You can also contact us by email at <strong><a href='info@beyondbiomag.io'>info@beyondbiomag.io</a></strong> to request to see the information that we collect.<br><br><strong>Minors Prohibited.</strong>This app contains nudity and is not intended for minors. This app is intended to be used by people of 17+ age. If your are under the age of 17, you are not permitted to subscribe and use our app. By proceeding to the app, you confirm that you are of 17+ age.<br><br></p><h5 class='vmo-licence-title'>WHAT DATA WE COLLECT</h5><p>We collect information from you at the time of registration with the Website / Application or during any interaction with us through calls, emails, or other correspondence.</p><h5 class='vmo-licence-title'>WHEN YOU GIVE US YOUR INFORMATION</h5><p>To access our Website / Application(s), we may ask you to provide us with certain information that personally identifies you or could be used to personally identify you. For example, when you choose to sign up, we collect your name, phone number, email address, username, password, and other information you directly give us on our Site. We receive data about you whenever you interact with our Website / Application(s), such as when you send or receive a message. When you post any information/comment on the Website / Application(s) pertaining to our Services, you may need to give us your complete details.On posting information on our Website / Application(s), we may collect additional information related data (or metadata), such as date, time, the place you uploaded such information. We may also collect data from computer, mobile phone or other device you use to access our Website / Application(s). This may include your IP address and other information about things like your internet service, type (including identifiers) of browser you use, location, or the pages you visit. We may obtain data whenever you visit a third party link through our Website / Application(s), or through cookies, this may include the date and time you visit the Website / Application(s); technical information about the browser IP address, and the operation system you use; the web address, or URL, you are on; and, if you logged into our Website / Application(s), your user ID.</p><h5 class='vmo-licence-title'>WHEN YOU CONTACT US FOR HELP</h5><p>Whenever you contact us for help, we collect your name, email address, and other additional information you provide in your request to provide you our support and to improve our Services. You can also contact us on public forums such as Facebook or Twitter; however, we cannot uphold the privacy of your communication with us, if you contact us through these social channels.</p><h5 class='vmo-licence-title'>INFORMATION AUTOMATICALLY COLLECTED</h5><p>We automatically record information about you and your computer when you visit our Website / Application(s). We log your IP address and data about your actions on our Website / Application(s).</p><h5 class='vmo-licence-title'>INFORMATION WE GET FROM OTHER SOURCES</h5><p>We do not receive any information about you from other sources outside of your interaction with Website / Application(s).</p><h5 class='vmo-licence-title'>COOKIES</h5><p>Cookies are text files that are sent by servers to web browsers and stored on your computer. They tell us which parts of the Service you’ve visited. This will help us figure out which promotions you may like to see or to alert you to software compatibility issues. Social media tools, like plug-ins and widgets, are used, so you can share information from our Website / Application(s) on other sites such as Facebook and Twitter. These interactive plug-ins collect your IP address, log the pages you visit on our Website / Application(s), and set cookies that will enable the widget to function properly. Your interactions with these widgets are governed by the Privacy Policy of the company providing them, not by our Privacy Policy. We also use the Facebook and Twitter pixel tags to assist us to understand how effective our marketing is on those sites.</p><h5 class='vmo-licence-title'>HOW WE USE YOUR DATA</h5><p>We use your information to improve our Website / Application(s) to provide you with the best possible experience. We may use your name that you provide at the time of creating an account, to represent you consistently across all our Services. When you contact us, we keep record of your communication to assist in solving any issues you might be facing. We may use your details such as email address or contact number to inform you about our Services or any Updates. We may use the information collected from cookies and pixel tags to improve the user experience and the overall quality of our Website / Application(s). For example, when showing tailored ads, we will not associate a cookie with sensitive categories such as those based on religion, race, or sexual orientation. We process personal information on our servers in various countries around the world. We may process your personal information on a server located outside the country where you live. By granting us permission as of date, you allow us to provide you with new Services or feature we develop in future that may use the information we receive about you in new ways. We will ask you for your consent before using your data for a purpose other than those that set out in this Privacy Policy.</p><h5 class='vmo-licence-title'>CHILDREN’S POLICY</h5><p>We strongly encourage parents and guardians to supervise the online (internet) activities of their minor children and consider using parental control tools offered from online services and software manufacturers that assist in providing a child-friendly online environment. These tools also can avert minors from disclosing their name, address, and other personally identifiable information online without parental permission. Although the Website / Application(s) are not intended for use by minors, we respect the privacy of minors who may inadvertently reach the mobile application or the internet.</p><h5 class='vmo-licence-title'>SHARING OF PERSONAL INFORMATION</h5><p>We don’t sell information that could identify you. We only share data about you when it is necessary to provide the Service or when you direct us to share it. We may share your personal information when we do or negotiate a business deal involving the transfer or sale of all or a part of our business or assets. These deals can include any merger, acquisition, financing, or bankruptcy transaction or proceeding. We may also share your personal information as follows:</p><p>1. For legal, safeguard, and safety purposes<br>2. To comply with laws<br>3. To respond to lawful requests and legal processes<br>4. To protect the rights and property of Website and Application(s), our customers, and others (includes enforcing our policies, agreements, and terms of use).<br>With those who need it to do work for us to improve the customer experience We may at our discretion, release personal information or account when we believe release is appropriate to comply with judicial proceeding or legal process served on us; apply our Terms of Use and other agreements; or protect the property, rights, our safety, users, or others.<br>This includes the exchange of information with other organizations for fraud protection and credit risk reduction.<br>The information may be shared with any third party for record keeping purposes, internal procedures or any other purposes and by using this Website / Application(s) you are consent to such sharing of the information.</p><h5 class='vmo-licence-title'>SECURITY OF PERSONAL INFORMATION</h5><p>We are committed to protecting our customer’s personal information. We follow the appropriate security safeguards to protect your personal information against loss, theft and unauthorized access. We review our security measures and procedures regularly to ensure that they are properly administered and remain effective for the sensitivity of the information. When we are required by law to provide information, we take sensible steps to verify the lawful authority for the collection, and we disclose only the data that is required. For the password we have given you (or you have chosen) to access all or certain parts of our Website / Application(s), you are responsible for keeping this password confidential. We require you not to share passwords with anyone.</p><h5 class='vmo-licence-title'>WHEN THIS PRIVACY POLICY APPLIES</h5><p>This policy applies to all of the Services offered through Website / Application(s). Our policy does not apply to service offered by other individuals or companies, including products or sites that may be displayed in search results, sites that may include related Services or other sites from our Services. This policy does not cover the information practices of other companies who advertise our Services, and who may use pixel tags, cookies, and other technologies to serve and offer relevant ads.</p><h5 class='vmo-licence-title'>CHANGES IN THE POLICY</h5><p>We may do changes in the policy from time to time. We will not remove any rights under this Privacy Policy without your explicit consent. We will post any policy changes on this page and, if the changes are prominent, we will provide a more significant notice including the changes.</p><h5 class='vmo-licence-title'>CONTACT INFORMATION</h5><p>We welcome your questions or comments about this Privacy Policy. You may also contact us as per the contact information on our website.</p><br><h4 class='vmo-licence-title'>TERMS OF USE</h4><hr><p>By registering or signing up with us, you admit that you have read, understood, and agreed to be bound by these Terms of Use. If you do not agree to our Terms of use, you are not authorized to use or register to our Website / Application(s). You hereby grant agency authority to any party who register an account on your behalf.</p><h5 class='vmo-licence-title'>LEGAL AGREEMENT</h5><p>This user agreement (”Agreement”) is between you and us governing your use of our Website or Application(s) with the characteristics and features as described on our Website / Application(s) (referred to as “Services”). We will not be liable for any consequences arising from your unauthorized access. We may revise these terms of use anytime by amending this page.</p><h5 class='vmo-licence-title'>USING OUR SERVICES</h5><p>To enhance your experience while using our Website / Application(s), you must abide policies available to you within the Services. The interface and the instruction provided in the Services should not be impeded using a method other than provided in the Services. The Services are provided under a regulating law and can be suspended or stopped if you do not comply/obey with the list of terms or policies or in the case of any suspected misconduct happens. The right to ownership of any intellectual property in our Services or the content you access is possessed by its owner. Using any content from our Services needs a prior approval from its owner or which are otherwise permitted by law. These terms deny you from using any branding or logo used by our Services. Using our Services doesn’t allow you to remove, obscure or alter any judicial notices displayed in or along with our Services. Our Services are restricted to Biomagnetism, which is the sole responsibility of the entity that makes it available. A proper review of content to validate its legal belonging or policy violation is mandatory, so as to gain confidence which may be removed or refused if found to infringe our policies or the law. In relation to the Services used, we may send you service announcements, administrative messages and other related information for which you may opt out. Certain Services are restricted to mobile devices. Avoid using such Services in a way that distract you from obeying safety or pertaining to laws. Never forget to clean your HTML code and double check your content before publishing an article.</p><h5 class='vmo-licence-title'>YOUR ACCOUNT</h5><p>A user needs to have an account for accessing some of our Services. To protect your account and password, confidentiality is required. You are responsible for any activities that happen on or through your account. Avoid using account password on 3rd party applications. In case of any unauthorized use of your account or password, you must contact us.</p><h5 class='vmo-licence-title'>PRIVACY AND COPYRIGHT PROTECTION</h5><p>This policy guides our users while explaining process related to personal data therapy and privacy protection at the time our Services are being used. By using our Services, you agree that we can use such data in accordance with our policy. We respond to notices of alleged copyright infringement and terminate accounts of repeat infringers according to the process set out in the U.S Digital Millennium Copyright Act.</p><h5 class='vmo-licence-title'>YOUR CONTENT IN OUR SERVICES</h5><p>Some Services offered by us allow you to upload, submit, store, send or receive content. You are entitled to have ownership of any intellectual property rights; in short what belongs to you stays yours. With any activities through our Services, you give us (and those we work with) a worldwide license to use, host, store, reproduce, modify, create, derivative works (translation, adaptation, so that content works better with our Services), communicate, publish, publicly perform, publicly display and distribution of such content. The license continues even after you have stop using our Services.</p><h5 class='vmo-licence-title'>CONDITIONS OF USE</h5><p>You must be 18 years of age or older to register, or visit or use the Website / Application(s) or use the Services in any manner. By registering, visiting and using the Website / Application(s) or accepting this Agreement, you represent and warrant to us that you are 18 years of age or older, and that you have the right, authority and capacity to use the Website / Application(s) and the Services available, and agree to and abide by this Agreement.</p><h5 class='vmo-licence-title'>NO PRACTITIONER-CLIENT RELATIONSHIP; NOT FOR EMERGENCY USE</h5><p>Your purchasing and downloading our App or using our web site does not create a practitioner-client relationship. Some of the content, data, text, information, suggestions, images, graphics, videos, guidance, and other material (collectively “information”) that may be available on the Website / Application(s) and in our direct response to your queries may be provided by individuals in the Biomagnetism profession. The provision of such information does not create a licensed Biomagnetism professional-client relationship, between us and you and does not constitute an medical advice, opinion, or diagnosis or therapy of any particular condition, but is only provided to assist you with the appropriate healthcare from a qualified practitioner. It is hereby clarified that the information you obtain or receive from us and our partners, employees, sponsors, contractors, advertisers, or otherwise on Website / Application(s) is for informational purposes only. We make no warranties, guarantees, or representations, whether implied or expressed, with respect to professional qualifications, quality of work, expertise or other information provided on the Website / Application(s). In no event shall we be liable to you or others for any decision made or action taken by you in reliance on such information. Our Services are not intended to be a substitute for getting in touch with the emergency healthcare. If you are an End-user facing any emergency (either on your or an another person’s behalf), please contact a hospital service directly.</p><h5 class='vmo-licence-title'>TERMS FOR PRACTITIONERS</h5><p>Practitioner hereby agrees to hold in strictest confidence all information provided by a User to him/her under all circumstances. Practitioner agrees that he/she shall not disclose any information or documentation provided by a User to any other person, nor shall he/she allow, by act or omission, such information or documentation to be acquired by any other person. The practitioner understands that the information that is disclosed by the client at the time of consultation shall be confidential in nature and subject to client and Practitioner privilege. The Practitioner shall ensure client’s consent is obtained prior to uploading the prescription/health records of the client on the account of the client during such consultation. The Practitioner shall at all times ensure that all the applicable laws that govern the Practitioner shall be followed and utmost care shall be taken in terms of the consultation being rendered. The Practitioner acknowledges that should we find the Practitioner to be in violation of any of the applicable laws/rules/guidelines/regulations set out by the authorities then we shall be entitled to cancel the registration with Website / Application(s) or take such other legal action as may be required. You as a Practitioner hereby represent and warrant that you will use our Services in accordance with applicable law. Any contravention of applicable law as a result of your use of these Services is your sole responsibility, and we accept no liability for the same. The use of medical terms of art is for practitioner convenience only and is not intended to diagnose, prescribe for, mitigate, treat or cure any disease or medical condition.</p><h5 class='vmo-licence-title'>TERMS FOR CLIENTS</h5><p>The User hereby grants consent to us to feature the queries posted by the User on the Website or Application(s) and agrees that any such information provided by the User will be subject to the policy. Our Service is intended for general purposes only and is not meant to be used in emergencies or serious illnesses requiring physical consultation. Further, if any Practitioner adjudges that a physical examination would be required and advises ‘in-person consultation,’ it is the sole responsibility of the client, to book an appointment for physical examination and in-person consultation. In case of any negligence on the part of the client in acting on the same and the condition of the client deteriorates, we shall not be held liable. As a User, you understand that we are not a medical service provider, nor is it involved in providing any healthcare or diagnosis or medical advice, it shall hence not be responsible for any outcome from the consultation between the Practitioner and the User. Beyond Biomag 3D App is a platform being made available to users to assist them in self-healing under the guidance of Practitioners and does not intend to replace the physical consultation with the Practitioner.<br><br>Client acknowledges that this web site or the App are not intended to treat, prevent, mitigate or cure any medical or psychological condition, or to support or sustain human life, or to prevent impairment of human health.</p><h5 class='vmo-licence-title'>FEEDBACK AND REVIEW DISPLAY</h5><p>All the Critical Content is the content created by the Users of our Website / Application(s) including the customers and end-users. We do not take any responsibility for Critical Content and its role with respect to the Information Technology Act, 2000 (Critical Content is restricted to that of an ‘intermediary’). We reserve the rights to collect feedback and Critical Content for all the Practitioners and End-Users. We shall have no obligation to review, pre-screen, filter, flag, modify, reject or remove any or all Critical Content from any Service, except as required by applicable law. You acknowledge that by using our Services, you may be exposed to Critical Content or other content that you may find objectionable. We as an ‘intermediary,’ take steps as required to comply with applicable law as regards the publication of Critical Content. If we determine that you have provided inaccurate information or enabled fraudulent feedback, we reserve the right to immediately suspend any of your accounts with us and make such declaration on the website alongside your name for the protection of its business and in the interests of Users.</p><h5 class='vmo-licence-title'>REACH RIGHTS</h5><p>We reserve the rights to display sponsored ads on the Website / Application(s). These ads would be marked as “Sponsored ads.” Without prejudice to the status of other content, we will not be liable for the accuracy of information or the claims made in the Sponsored ads. We do not encourage the Users to visit the Sponsored ads page or to avail any services from them. We will not be liable for the services of the providers of the Sponsored ads.</p><h5 class='vmo-licence-title'>ABOUT SOFTWARE IN OUR SERVICES</h5><p>The software may update with its new version or feature when any of our Service requires or includes downloadable software. Some of the Services may allow you to adjust automatic update settings. We give you a personal, worldwide, royalty-free, and non-exclusive license to use the software provided to you by us as a part of the Services. The license is for the sole purpose of enabling you to use and enjoy the benefit of our Services, in the manner permitted by these terms. You may not copy, distribute, sell, modify, or lease any part of our Services or included software, nor may you reverse engineer or attempt to extract the source code of that software, unless laws prohibit those restrictions or you have our written permission. Open source software is important to us. Some software used in our Services may be offered under an open source license that we will make available to you. There may be provisions in the open source license that expressly override some of these terms.</p><h5 class='vmo-licence-title'>MODIFYING AND TERMINATING OUR SERVICES</h5><p>With a vision of having better Services we are constantly changing and improving it. We may add or remove functions or features or even suspend or stop a service altogether. You can stop using our Services at any time, although we will be sorry to see you terminate. We may also stop providing Services to you, or adjust new limits to the services at any time. We respect your data ownership and will take commercially reasonable steps to preserve it. An advance notice with a chance to get information about the services will be provided if we terminate a service (reasonably possible).</p><h5 class='vmo-licence-title'>OUR WARRANTIES AND DISCLAIMERS</h5><p>We provide our Services using a commercially reasonable level of skill and care and we hope that you will enjoy using them. But there are certain things that we don’t promise about our Services. Other than as clearly mentioned in these terms, neither we nor our partners make any specific promises about the Services. For example, we don’t make any commitment about the content mentioned within the Services, the specific functions of the Services, or their reliability, availability or ability to meet your needs. We provide the Services “as is.” We make no claims regarding the potential benefits of using magnets.</p><h5 class='vmo-licence-title'>CONSUMER REVIEW DISCLAIMER</h5><p>We do not [monitor/moderate] or control the content of consumer reviews but reserve the right to remove what are, in our sole opinion, clearly false statements, spam or other injurious materials that are brought to our attention. We do not adopt or endorse any review statement.</p><h5 class='vmo-licence-title'>NON-MEDICAL DEVICE DISCLAIMER</h5><p>Not intended to treat disease, support or sustain human life, or to prevent impairment of human health.</p><h5 class='vmo-licence-title'>LIABILITY FOR OUR SERVICES</h5><p>In no event, shall we or any of our partners, directors, officers, employees, or content or service providers (collectively, the “Protected Entities”) be liable for any direct, indirect, consequential, special, incidental, exemplary or punitive damages arising from, or directly or indirectly related to, the use of, or the incapability to use, the Website / Application(s) or the content, materials and functions related thereto, the Services, User’s provision of information via the Website / Application(s), lost business or lost End-Users, even if such Protected Entity has been advised of the possibility of such damages. In no event shall the Protected Entities be liable for:</p><p>1. any content posted, exchanged, received or transmitted by or on behalf of any User or another person on or through the Website / Application(s); or<br>2. any unauthorized access to or alteration of your data; or<br>3. any other matter relating to the Website / Application(s) or the Service.</p><p>In all cases, we, our partners, our suppliers and distributors, will not be liable for any loss or damage that is not reasonably foreseeable.</p><h5 class='vmo-licence-title'>ABOUT THESE TERMS</h5><p>We may modify these terms or add any further terms that apply to the Website / Application(s), for example, reflect changes to the law or changes to our Services. You need to look at these terms regularly. We will post modification notice on the page, and also the modified additional terms in the applicable Website / Application(s). If you do not agree to the modified terms for a service, you should discontinue your use of that Website / Application(s). These terms control the relationship between us and you, and they do not create any 3rd party beneficiary rights. We reserve rights to take actions in the future if you do not comply with these terms.</p><h5 class='vmo-licence-title'>RESOLVING DISPUTES</h5><p>You and we agree that any judicial proceeding will be governed by the laws of USA. Any dispute, controversy, or claim arising out of or relating to this Agreement, including the determination of the applicability of this Agreement to settle, or your use of the Website / Application(s) or information to which it gives access, shall be determined by arbitration in USA, before a sole arbitrator appointed by us. Arbitration shall be conducted in accordance with the Arbitration and Conciliation Act, 1996. The seat of such arbitration shall be USA. All proceedings of such arbitration, including, without limitation, any awards, shall be in the English language. The award shall be final and binding on the parties to the dispute.</p><h5 class='vmo-licence-title'>PAYMENT AND CANCELLATION POLICY</h5><p>You have no right to access the App without payment. You may cancel at any time without refund.<br><br>YOU HAVE READ THESE TERMS OF USE AND AGREE TO ALL OF THE PROVISIONS CONTAINED ABOVE</p>",
+        "Code": "PP001",
+        "id": "01"
+    }
+}

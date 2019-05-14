@@ -1,0 +1,179 @@
+@blogheadingcolor : #293440;
+@BlogbackGroundColor: #f4f5f6;
+@BlogContentColor: #8c8c8c;
+
+#blog {
+  padding-top: 119px;
+  background-color: @BlogbackGroundColor;
+
+  #blogCard {
+    padding-top: 24px;
+
+    .blog-img {
+      padding: 0 0 20px 0;
+    }
+
+    .blog-heading {
+      min-height: 35px;
+      margin: 0 0 8px;
+      cursor: pointer;
+
+      h5 {
+        margin: 0 !important;
+        font-size: 15px !important;
+        font-weight: 600;
+        color: #293440;
+      }
+    }
+
+    .blog-content-minheight {
+      min-height: 120px;
+
+      p {
+        color: @BlogContentColor;
+        font-size: 15px !important;
+      }
+    }
+
+    .admin-readmore-content {
+      border-top: 1px solid #999;
+      border-bottom: 1px solid #999;
+      font-weight: 600;
+      padding: 11px 0;
+      font-size: 13px;
+      display: flex;
+
+      .blogAdmin {
+        flex-grow: 1;
+        color: #293440;
+      }
+
+      .readMore {
+        color: #5b61a0;
+      }
+    }
+  }
+}
+
+#singleBlog {
+  padding-top: 119px;
+  p {
+    a {
+      word-wrap: break-word;
+    }
+  }
+  .blog-detail-pageHeading {
+    margin-bottom: 0.5rem;
+  }
+
+  .blog-detailpage-date {
+    font-size: 10px;
+  }
+
+  .blog-detailpage-content {
+    text-align: justify;
+  }
+
+  .blog-tags {
+    list-style: none;
+    background-color: #ffbc3a !important;
+    border-radius: 50px;
+    display: inline-block !important;
+    padding: 8px 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-size: 14px;
+  }
+}
+
+.filter {
+  padding: 0 0 20px 0;
+
+  .blog-filter-name {
+    text-transform: uppercase;
+    color: #cbcacd;
+  }
+
+  span {
+    color: #cbcacd;
+    font-size: 12px;
+    font-weight: 600;
+  }
+  span.selected {
+    background: #6242a3;
+    color: #fff !important;
+  }
+
+  li {
+    list-style: none;
+    display: inline;
+    padding: 8px;
+
+    span {
+      padding: 2px 10px;
+      font-size: 14px;
+      color: #6242a3;
+      border: 2px solid #6242a3;
+      border-radius: 20px;
+      font-weight: 400;
+      cursor: pointer;
+
+      &:hover {
+        background-color: #6242a3;
+        color: #fff;
+        transition: all 0.1s ease-in;
+      }
+    }
+  }
+
+  .modal-display {
+    span {
+      color: #000;
+      font-size: 15px;
+      font-weight: 300;
+      cursor: pointer;
+    }
+  }
+}
+
+.modal-header {
+  border-bottom: none !important;
+}
+
+.modal-body li {
+  list-style: none;
+  text-align: center;
+
+  h6 {
+    padding: 10px;
+    font-weight: 300;
+    cursor: pointer;
+  }
+}
+
+.page-comment {
+  background-color: #5b61a0;
+  box-sizing: border-box;
+  font-size: 15px;
+  word-break: normal !important;
+  color: #fff !important;
+  line-height: normal !important;
+
+  p {
+    margin: 0;
+  }
+}
+
+.multi-pathogen-image {
+  text-align: center;
+}
+
+.blogAuthorImage {
+  border-radius: 50%;
+  width: 50px;
+}
+@media screen and (max-width: 750px) {
+  #blog {
+    padding: 20px;
+  }
+}
