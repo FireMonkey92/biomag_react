@@ -17,7 +17,7 @@ const BlogCard = ({ blog }) => {
             </div>
             <Link to={`/blog/${blog.path}`}>
                 <div className="blog-content-minheight">
-                    <p dangerouslySetInnerHTML={{ __html: blog.shortDescription }} />
+                    <div dangerouslySetInnerHTML={{ __html: blog.shortDescription }}/>
                 </div>
             </Link>
             <div className="admin-readmore-content">

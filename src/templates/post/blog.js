@@ -79,7 +79,7 @@ class BlogPage extends Component {
           </Row>
           <Row className="justify-content-md-center">
             <Col md={8} className="blog-detailpage-content">
-              <p dangerouslySetInnerHTML={{ __html: Blog.fullDescription }} />
+              <div dangerouslySetInnerHTML={{ __html: Blog.fullDescription }} />
             </Col>
           </Row>
           {/* Disqus */}

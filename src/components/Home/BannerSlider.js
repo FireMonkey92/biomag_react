@@ -85,47 +85,23 @@ const BannerSlider = () => {
                     <Col lg={6}>
                       <div className={item.bannerTitleAnimationClass}>
                         <h1 className="big-title">
-                          <div
-                            dangerouslySetInnerHTML={{
-                              __html: item.bannerTitle
-                            }}
-                          />
+                          <div dangerouslySetInnerHTML={{ __html: item.bannerTitle }} />
                         </h1>
                         <Row className="banner-app-links">
-                          <Col sm={4} xs={4} className="banner-app-button1 p-0">
+                          <Col sm={4} xs={4} className="p-0">
                             <a
                               href={APPSTORELINK}
                               target={item.target}
                               rel="noopener noreferrer"
-                              className={
-                                APPSTORELINK === ""
-                                  ? "disabled-link"
-                                  : item.appStoreButtonStyle
-                              }
-                              onClick={e => {
-                                if (APPSTORELINK === "") e.preventDefault();
-                              }}
-                            >
-                              <Img
-                                className="app-button m-0"
-                                fluid={
-                                  item.appStoreButton.childImageSharp.fluid
-                                }
-                              />
+                              className={APPSTORELINK === "" ? "disabled-link" : item.appStoreButtonStyle}
+                              onClick={e => { if (APPSTORELINK === "") e.preventDefault(); }}>
+                              <Img className="app-button m-0" fluid={item.appStoreButton.childImageSharp.fluid} />
                             </a>
                           </Col>
-                          <Col sm={4} xs={4} className="banner-app-button2 p-0">
-                            <a
-                              href={PLAYSTORELINK}
-                              target={item.target}
-                              rel="noopener noreferrer"
-                              className={
-                                PLAYSTORELINK === "" ? "disabled-link" : ""
-                              }
-                              onClick={e => {
-                                if (PLAYSTORELINK === "") e.preventDefault();
-                              }}
-                            >
+                          <Col sm={4} xs={4} className="p-0">
+                            <a href={PLAYSTORELINK} target={item.target} rel="noopener noreferrer"
+                              className={PLAYSTORELINK === "" ? "disabled-link" : ""}
+                              onClick={e => { if (PLAYSTORELINK === "") e.preventDefault(); }}>
                               {renderButtonImage(item.playStoreButton)}
                             </a>
                           </Col>
@@ -133,11 +109,8 @@ const BannerSlider = () => {
                       </div>
                     </Col>
                     <Col lg={{ span: 5, offset: 1 }}>
-                      <Img
-                        className={item.bannerHandImageAnimationClass}
-                        alt={item.altTag}
-                        fluid={item.bannerHandImage.childImageSharp.fluid}
-                      />
+                      <Img className={item.bannerHandImageAnimationClass} alt={item.altTag}
+                        fluid={item.bannerHandImage.childImageSharp.fluid} />
                     </Col>
                   </Row>
                 </div>

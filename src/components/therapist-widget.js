@@ -44,13 +44,13 @@ const Therapist = ({ therapistDescription }) => {
                                         })}
                                     </Col>
                                     <Col md={12} className="col-12">
-                                        <p className="therapistPhonenumber" dangerouslySetInnerHTML={{ __html: therapist.therapistPhonenumber }} />
+                                        <div className="therapistPhonenumber" dangerouslySetInnerHTML={{ __html: therapist.therapistPhonenumber }} />
                                     </Col>
                                     <Col md={12} className="col-12">
-                                        <p className="therapistGmail" dangerouslySetInnerHTML={{ __html: therapist.therapistGmail }} />
+                                        <div className="therapistGmail" dangerouslySetInnerHTML={{ __html: therapist.therapistGmail }} />
                                     </Col>
                                     <Col md={12} className="col-12">
-                                        <p className="therapistWebsite" dangerouslySetInnerHTML={{ __html: therapist.therapistWebsite }} />
+                                        <div className="therapistWebsite" dangerouslySetInnerHTML={{ __html: therapist.therapistWebsite }} />
                                     </Col>
                                 </Row>
                             </Col>
