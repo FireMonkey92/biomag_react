@@ -82,7 +82,7 @@ const Biomag3DFeatures = () => {
             <Img fluid={data.Biomag3DImage.childImageSharp.fluid} />
           </Col>
           <Col md={8}>
-            <Row>
+            <Row className='mt-4'>
               {data.Biomag3DWidgets.map((item, id) => {
                 return (
                   <Col md={6} sm={12} key={id}>

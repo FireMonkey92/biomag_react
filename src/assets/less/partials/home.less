@@ -32,16 +32,15 @@
     color: #bd1c47;
     font-weight: 900;
     font-size: 30px;
-    P{
+    p {
       border-radius: 50%;
       margin: 0;
       width: 60px;
       background-color: #fff;
       padding: 8px !important;
     }
-    
   }
-  @media screen and (max-width:1025px) {
+  @media screen and (max-width: 1025px) {
     #highlights {
       text-align: center !important;
     }
@@ -135,8 +134,8 @@
   background-color: #fff;
 }
 
-#ourApp{
-  background: url("/Background-image-3.png");
+#ourApp {
+  background: url("/images/Background-image-3.png");
   background-size: cover !important;
   margin-top: -18% !important;
   padding-top: 200px !important;
@@ -227,7 +226,7 @@
 }
 // Carousel Slider Styles
 #carousel-slider {
-  background: url("/Background-image.jpg") no-repeat center center fixed;
+  background: url("/images/Background-image.jpg") no-repeat center center fixed;
   background-size: cover;
   width: 100%;
   .slick-dots {
@@ -269,7 +268,7 @@
     max-width: 180px;
     margin: auto !important;
   }
-  .banner-app-links{
+  .banner-app-links {
     padding: 0 20px;
   }
   .banner-3d {
@@ -292,7 +291,7 @@
   .banner-image {
     max-width: 100% !important;
     height: 90%;
-    div{
+    div {
       padding-bottom: 131.846% !important;
     }
   }
@@ -302,10 +301,14 @@
   // to resize the image on small devices
   #highlights {
     .highlightsImage {
-      width: 60%;
-      margin-top: 0px;
+      left: 27px;
+      margin: 50px auto;
       margin-bottom: -130px;
-      padding-bottom: 40px;
+      padding-bottom: 54px;
+      // width: 60%;
+      // margin-top: 0px;
+      // margin-bottom: -130px;
+      // padding-bottom: 40px;
     }
   }
   #carousel-slider {
@@ -325,6 +328,15 @@
   }
 }
 @media (max-width: 768px) {
+  #highlights {
+    .highlightsImage {
+      width: 60%;
+      left: 27px;
+      margin: 20px auto;
+      margin-bottom: -100px;
+      padding-bottom: 54px;
+    }
+  }
   #ourApp {
     margin-top: 10px !important;
     padding-top: 10px !important;
@@ -332,8 +344,8 @@
   #carousel-slider {
     .description {
       text-align: center;
-      padding-top: 100px;
-      min-height: 500px;
+      padding-top: 50px;
+      min-height: 350px;
     }
     .banner-app-links {
       display: flex;
@@ -341,5 +353,9 @@
       justify-content: center;
     }
   }
+  #carousel-slider {
+    .container {
+      padding: 80px 0 0px;
+    }
+  }
 }
-

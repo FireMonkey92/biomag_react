@@ -40,10 +40,8 @@ const ContactUs = () => {
       <Container>
         <Row>
           <Col md={4} className="text-md-left">
-            <Col md={12}>
               <h5>{aboutUs.title}</h5>
               <p style={{ textAlign: "justify" }}>{aboutUs.description}</p>
-            </Col>
             <Col  md={12} sm={6} xs={6} className="buttonFlex" style={{ paddingLeft : "0px" , display : "flex"}}>
             <a href=" https://www.facebook.com/BeyondBiomag/" className="btn-fb">
             <FontAwesomeIcon icon={faFacebookF}/>
