@@ -11,15 +11,15 @@ class Header extends Component {
     super(props);
     this.state = {
       data: this.props.data,
-      pageContext:this.props.pageContext,
+      pageContext: this.props.pageContext,
     };
   }
-s
+  s
   componentDidMount() {
-      window.addEventListener("scroll", () => {
+    window.addEventListener("scroll", () => {
       let header = document.getElementById("navheader");
       if (this.state.pageContext.pageType === "Landing Page") {
-        if (window.scrollY <= 100 ) {
+        if (window.scrollY <= 100) {
           header.classList.add("nav-transparent");
           header.classList.remove("nav-colored");
         } else {
@@ -27,7 +27,7 @@ s
           header.classList.add("nav-colored");
         }
       }
-      else{
+      else {
         header.classList.remove("nav-transparent");
         header.classList.add("nav-colored");
       }
@@ -63,11 +63,11 @@ s
     return (
       <header>
         <Navbar
-          id="navheader" 
+          id="navheader"
           expand="md"
           fixed="top"
-          className={pageContext.pageType === "Landing Page" ? "nav-transparent": "nav-colored"}
-          >
+          className={pageContext.pageType === "Landing Page" ? "nav-transparent" : "nav-colored"}
+        >
           <Container>
             <Link to="/">
               <Img

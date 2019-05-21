@@ -71,8 +71,8 @@ class BlogPage extends Component {
                         );
                       })
                     ) : (
-                      <li />
-                    )}
+                        <li />
+                      )}
                   </ul>
                 </Col>
               </Row>
@@ -84,7 +84,7 @@ class BlogPage extends Component {
             </Col>
           </Row>
           {/* Download Buttons */}
-          <DownloadButtons/>
+          <DownloadButtons />
           {/* Disqus */}
           <Row className="justify-content-md-center pt-2">
             <Col md={8}>
