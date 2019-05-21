@@ -47,6 +47,14 @@
             }
         ]
     },
+    "BoimagDownloadButtons" :{ 
+        "id": "01",
+        "Biomag3DAppleDownload": "../../assets/images/app-store-button.png",
+        "Biomag3DAppleDownloadLink": "https://itunes.apple.com/in/app/beyond-biomag-3d/id1161699021?mt=8",
+        "Biomag3DAndroidDownload": "../../assets/images/android-app-store.png",
+        "Biomag3DAndroidDownloadLink": "https://play.google.com/store/apps/details?id=com.helensys.biomag",
+        "target": "_blank"    
+    },
     "ourApps": {
         "ourAppImage": "../../assets/images/biomag-apps.png",
         "ourAppContent": "<p><ol style='text-align: left;'><li>View biomagnetism pairs, associated health concerns and microbiome.</li><li>Search for health concerns, microbiome associated with a specific anatomical biomagnetism pair.</li><li>Fast and filtered searches.</li></ol></p>",

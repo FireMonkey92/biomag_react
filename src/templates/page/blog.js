@@ -8,6 +8,7 @@ import SEO from "../../components/seo";
 import BlogCard from "../../components/blog-card";
 import Filters from "../../components/Filters";
 
+
 class Blog extends Component {
   constructor(props) {
     super(props);

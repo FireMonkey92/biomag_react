@@ -5,6 +5,7 @@ import _ from "lodash";
 import Disqus from "disqus-react";
 import Img from "gatsby-image";
 import Layout from "../../layout/layout";
+import DownloadButtons from '../../components/downloadButtons'
 import { Row, Col, Container } from "react-bootstrap";
 //importing Config file
 import { DisqusConfig } from "../../config";
@@ -82,6 +83,8 @@ class BlogPage extends Component {
               <div dangerouslySetInnerHTML={{ __html: Blog.fullDescription }} />
             </Col>
           </Row>
+          {/* Download Buttons */}
+          <DownloadButtons/>
           {/* Disqus */}
           <Row className="justify-content-md-center pt-2">
             <Col md={8}>
