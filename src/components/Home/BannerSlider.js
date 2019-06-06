@@ -60,7 +60,11 @@ const BannerSlider = () => {
     infinite: true,
     speed: 500,
     fade: true,
+    autoplay: true,
+    autoplaySpeed: 4000,
     arrows: false,
+    pauseOnHover: false,
+    pauseOnDotsHover: false,
     slidesToShow: 1,
     slidesToScroll: 1
   };
