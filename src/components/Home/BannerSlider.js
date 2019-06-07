@@ -61,7 +61,7 @@ const BannerSlider = () => {
     speed: 500,
     fade: true,
     autoplay: true,
-    autoplaySpeed: 4000,
+    autoplaySpeed: 7000,
     arrows: false,
     pauseOnHover: false,
     pauseOnDotsHover: false,

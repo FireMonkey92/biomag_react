@@ -10,9 +10,6 @@ import SEO from "../../components/seo";
 import Therapist from "../../components/therapist-widget";
 import Filters from "../../components/Filters";
 
-//importing Config file
-import { DisqusConfig } from "../../config";
-
 import { isBrowser } from "../../helpers";
 
 class Therapists extends Component {
@@ -80,11 +77,11 @@ class Therapists extends Component {
           {/* Disqus */}
           <div className="article mt-5">
             <Disqus.DiscussionEmbed
-              shortname={DisqusConfig.shortname}
+              shortname='BeyondBiomag'
               config={{
-                url: this.state.url,
-                identifier: DisqusConfig.identifier,
-                title:"biomag"
+                title: "Therapist",
+                identifier: 1,
+                url: this.state.url
               }}
             />
           </div>

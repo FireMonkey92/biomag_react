@@ -2,22 +2,8 @@ import React, { Component } from 'react';
 import Link from 'gatsby-link';
 import Layout from "../layout/layout"
 import SEO from "../components/seo"
-// import { isBrowser } from '../helpers';
 
 class ErrorPage extends Component {
-  // componentDidMount() {
-  //   if (isBrowser()) {
-  //     document.querySelector('.header').style.display = 'none';
-  //     document.querySelector('.footer').style.display = 'none';
-  //   }
-  // }
-
-  // componentWillUnmount() {
-  //   if (isBrowser()) {
-  //     document.querySelector('.header').style.display = '';
-  //     document.querySelector('.footer').style.display = '';
-  //   }
-  // }
 
   render() {
     return (

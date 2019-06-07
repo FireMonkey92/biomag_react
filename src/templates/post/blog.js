@@ -2,13 +2,11 @@ import React, { Component } from "react";
 import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import _ from "lodash";
-import Disqus from "disqus-react";
+import { DiscussionEmbed } from "disqus-react";
 import Img from "gatsby-image";
 import Layout from "../../layout/layout";
 import DownloadButtons from '../../components/downloadButtons'
 import { Row, Col, Container } from "react-bootstrap";
-//importing Config file
-import { DisqusConfig } from "../../config";
 
 import { isBrowser } from "../../helpers";
 
@@ -19,6 +17,12 @@ class BlogPage extends Component {
       url: isBrowser() ? window.location.href : "/"
     };
   }
+  shortname = 'BeyondBiomag';
+  DisqusConfig = {
+    title: this.props.data.biomagJson.blog.blogDescription.blogName,
+    identifier: this.props.data.biomagJson.blog.blogDescription.id,
+    url: this.props.location.href
+  };
   render() {
     const { data, pageContext } = this.props;
     const singleBlog = _.filter(data.biomagJson.blog.blogDescription, [
@@ -89,13 +93,9 @@ class BlogPage extends Component {
           <Row className="justify-content-md-center pt-2">
             <Col md={8}>
               <div className="article mt-5">
-                <Disqus.DiscussionEmbed
-                  shortname="Beyondbiomag"
-                  config={{
-                    url: this.state.url,
-                    identifier: DisqusConfig.identifier,
-                    title: "biomag"
-                  }}
+                <DiscussionEmbed
+                  shortname={this.shortname}
+                  config={this.DisqusConfig}
                 />
               </div>
             </Col>

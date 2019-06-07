@@ -43,16 +43,16 @@ const ContactUs = () => {
             <h5>{aboutUs.title}</h5>
             <p style={{ textAlign: "justify" }}>{aboutUs.description}</p>
             <Col md={12} sm={6} xs={6} className="buttonFlex" style={{ paddingLeft: "0px", display: "flex" }}>
-              <a href=" https://www.facebook.com/BeyondBiomag/" target="_blank" className="btn-fb">
+              <a href=" https://www.facebook.com/BeyondBiomag/" target="_blank" rel="noopener noreferrer" className="btn-fb">
                 <FontAwesomeIcon icon={faFacebookF} />
               </a>
-              <a href=" https://twitter.com/BeyondBiomag" target="_blank" className="btn-tw">
+              <a href=" https://twitter.com/BeyondBiomag" target="_blank" rel="noopener noreferrer" className="btn-tw">
                 <FontAwesomeIcon icon={faTwitter} />
               </a>
-              <a href=" https://www.linkedin.com/company/beyondbiomag" target="_blank" className="btn-li">
+              <a href=" https://www.linkedin.com/company/beyondbiomag" target="_blank" rel="noopener noreferrer" className="btn-li">
                 <FontAwesomeIcon icon={faLinkedin} />
               </a>
-              <a href="https://www.instagram.com/beyondbiomag/" target="_blank" className="btn-ins">
+              <a href="https://www.instagram.com/beyondbiomag/" target="_blank" rel="noopener noreferrer" className="btn-ins">
                 <FontAwesomeIcon icon={faInstagram} />
               </a>
             </Col>
